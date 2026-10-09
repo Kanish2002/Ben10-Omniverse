@@ -25,3 +25,14 @@ test('production bundles real WebP assets and reference-only entries remain labe
  for(const file of Object.values(sheetFiles)){const bytes=readFileSync(new URL(`../assets/${file}`,import.meta.url));assert.equal(bytes.toString('ascii',0,4),'RIFF',file);assert.equal(bytes.toString('ascii',8,12),'WEBP',file);}
  assert.equal(hasSprite('shellhead'),false);assert.match(motionLabel(allEntries.find(e=>e.id==='shellhead')),/pending/);
 });
+
+
+test('navigation cannot interrupt a transformation and strand its completion callback', async () => {
+ const {World}=await import('../src/world.js');
+ for(const [method,args] of [['fit',[]],['focusRegion',['camp']],['focusEntry',['heatblast']]]){
+  const world={transformation:{done:false},camera:{x:12,y:34,zoom:1},region:'camp'};
+  assert.equal(World.prototype[method].apply(world,args),false);
+  assert.deepEqual(world.camera,{x:12,y:34,zoom:1});
+  assert.equal(world.transformation.done,false);
+ }
+});
