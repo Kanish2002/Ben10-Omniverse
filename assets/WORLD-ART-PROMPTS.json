@@ -1,0 +1,1590 @@
+[
+  {
+    "id": "motion-00",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-ba930e0e-5b82-4ec6-bba2-45d9cbf57d56.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Ship from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Small dog-shaped Galvanic Mechamorph puppy: black liquid-metal body, vivid green circuit patterns and a single green eye, broad paddle-like paws and tail; no visible mouth. Action: Reforms his little vehicle silhouette. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Lucy Mann from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Teen Omniverse human disguise: blonde ponytail, freckles and pink-purple eyes, black long-sleeved dress with red collar and white star on chest, over-knee white socks and red shoes. Her true Lenopan form is flowing brown mud with head tendrils. Action: Changes a disguising shimmer. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Sandra Tennyson from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Tall slim fair-skinned adult woman, blonde hair and pale-green eyes. Omniverse outfit: light-green cardigan over white shirt, tan cropped trousers, white flats. Action: Turns a page in a travel journal. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Carl Tennyson from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Fair-skinned adult man with brown hair and brown eyes; Alien Force outfit is a white button-down dress shirt, brown trousers and brown shoes. Action: Checks the route on a campsite map. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-ship",
+        "name": "Ship",
+        "action": "Reforms his little vehicle silhouette",
+        "period": 5.6
+      },
+      {
+        "id": "cast-lucy-mann",
+        "name": "Lucy Mann",
+        "action": "Changes a disguising shimmer",
+        "period": 5.4
+      },
+      {
+        "id": "cast-sandra-tennyson",
+        "name": "Sandra Tennyson",
+        "action": "Turns a page in a travel journal",
+        "period": 6.2
+      },
+      {
+        "id": "cast-carl-tennyson",
+        "name": "Carl Tennyson",
+        "action": "Checks the route on a campsite map",
+        "period": 6.7
+      }
+    ]
+  },
+  {
+    "id": "motion-01",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-419f5167-9a94-4e79-b015-f96aa5d97a72.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Natalie Tennyson from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Middle-aged woman resembling Gwen, swept-back mid-length red hair, dark-blue eyes and gold earrings/pendant. White blouse under green draped jacket, dark-grey skirt and matching heels. Action: Reads a book by the neighbourhood garden. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Frank Tennyson from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Middle-aged fair-skinned man with thinning brown hair and glasses, burgundy sweater over a collared polo shirt, tan trousers. Action: Waves to passing neighbours. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Cooper from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Cooper's Classic form: blond long-haired freckled boy with blue eyes, purple sleeveless basketball jersey with yellow 3 over white T-shirt, black shorts, purple-and-white shoes. Use goggles at a workbench; never depict as a generic scientist. Action: Repairs a small robot with his tools. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Elena Validus from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Omniverse Elena has darker brown skin, medium-length brown hair, red leather jacket over black shirt, black leather pants, black boots and fingerless gloves. Queen form separately has black body, glowing blue circuit lines, white eyes and four head spikes. Action: Examines an isolated nanochip sample. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-natalie-tennyson",
+        "name": "Natalie Tennyson",
+        "action": "Reads a book by the neighbourhood garden",
+        "period": 7.3
+      },
+      {
+        "id": "cast-frank-tennyson",
+        "name": "Frank Tennyson",
+        "action": "Waves to passing neighbours",
+        "period": 6.3
+      },
+      {
+        "id": "cast-cooper-daniels",
+        "name": "Cooper",
+        "action": "Repairs a small robot with his tools",
+        "period": 4.9
+      },
+      {
+        "id": "cast-elena-validus",
+        "name": "Elena Validus",
+        "action": "Examines an isolated nanochip sample",
+        "period": 6.1
+      }
+    ]
+  },
+  {
+    "id": "motion-02",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-f98a674b-7a9f-4820-bfa6-00c7837ea92c.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Alan Albright from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Young Black boy with short black hair; Omniverse orange hoodie marked by a basketball in flames, black undershirt, blue jeans and orange-white sneakers. His Pyronite form is slimmer than Heatblast and should be a separate flame overlay/transformation. Action: Practices a small Pyronite fireball. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Manny Armstrong from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Lanky red four-armed Tetramand-human hybrid, four orange eyes, black strip of hair and blocky beard. Alien Force black-and-green sleeveless jumpsuit with holsters and black wristbands; lower left hand is a metallic pincer prosthetic. Action: Lifts a training weight. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Helen Wheels from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Female blue-skinned Kineceleran hybrid with long tail, swept helmet crest, narrow face visor, three-fingered hands and roller-ball feet. Alien Force green-and-black uniform and black trousers with green pockets, green eyes; no human hair on alien form. Action: Runs the cadet speed course. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Pierce Wheels from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Light-brown-skinned teen with long dark-brown hair and a prominent white middle streak, quills protruding from face and forearms. Green high-collared vest over short-sleeved black jumpsuit, green leg pockets and boots, black wristbands. Action: Checks a target and raises his quills. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-alan-albright",
+        "name": "Alan Albright",
+        "action": "Practices a small Pyronite fireball",
+        "period": 4.3
+      },
+      {
+        "id": "cast-manny-armstrong",
+        "name": "Manny Armstrong",
+        "action": "Lifts a training weight",
+        "period": 4.6
+      },
+      {
+        "id": "cast-helen-wheels",
+        "name": "Helen Wheels",
+        "action": "Runs the cadet speed course",
+        "period": 2.9
+      },
+      {
+        "id": "cast-pierce-wheels",
+        "name": "Pierce Wheels",
+        "action": "Checks a target and raises his quills",
+        "period": 5.2
+      }
+    ]
+  },
+  {
+    "id": "motion-03",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-21326a57-de50-419a-9b83-7d01c908ce26.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Magister Labrid from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Tall mauve fish-like humanoid with yellow slit-pupil eyes and long black gills along neck, wearing grey-white Plumber armor and a clear water-filled helmet. Action: Calibrates Plumber scanning equipment. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Magister Patelliday from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Omniverse fish humanoid with yellow-grey skin, sharp pointed face, green eyebrows, sharp teeth and an anglerfish glowing lure; wears white-black Plumber armor. Ultimate Alien version instead is grey with purple eyes and glasses. Action: Patrols the headquarters corridor. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Magister Hulka from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Powerfully built pink-faced humanoid Plumber instructor, square jaw, visible metal implant over right side of head, standard grey-white Plumber armor. Action: Leads a cadet training drill. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Blukic from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Thin tall small Galvan with long neck, wall-eyed bulging eyes and few chin beard tendrils. Blue overalls with Plumber belt and blue-white baseball cap with small antenna. Action: Tests a newly assembled scanner. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-magister-labrid",
+        "name": "Magister Labrid",
+        "action": "Calibrates Plumber scanning equipment",
+        "period": 5.7
+      },
+      {
+        "id": "cast-magister-patelliday",
+        "name": "Magister Patelliday",
+        "action": "Patrols the headquarters corridor",
+        "period": 6.2
+      },
+      {
+        "id": "cast-magister-hulka",
+        "name": "Magister Hulka",
+        "action": "Leads a cadet training drill",
+        "period": 5.6
+      },
+      {
+        "id": "cast-blukic",
+        "name": "Blukic",
+        "action": "Tests a newly assembled scanner",
+        "period": 4.8
+      }
+    ]
+  },
+  {
+    "id": "motion-04",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-a5a9e8fb-2819-48bd-976d-95185c9ab003.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Driba from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Very short stout small Galvan with flat head, pronounced chin and no beard tendrils. White-black Plumber suit leaves fingers, toes and ankles exposed; opposite silhouette to tall thin Blukic. Action: Troubleshoots the scanner display. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Myaxx from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Female green Chimera Sui Generis in red armor: Omniverse lean silhouette, long head tentacles flowing like hair, no facial mouth tentacles. Classic version has Vilgax-like facial tentacles and a beauty mark on central tentacle. Action: Checks a tray of DNA samples. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Xylene from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Mint-green humanoid alien woman with two long head tentacles, third tentacle extending from lower back, four long fingers and three clawed toes; fitted blue jumpsuit. Action: Telekinetically moves Plumber equipment. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Reinrassig III from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Very tall muscular white Highbreed with purple four-eyed red-eyed face, black hands/feet and grey forearm/shin markings. Right arm is transplanted green Methanosian vegetation with Imperial Seal on palm. Action: Watches a slowly rotating stellar chart. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-driba",
+        "name": "Driba",
+        "action": "Troubleshoots the scanner display",
+        "period": 5.3
+      },
+      {
+        "id": "cast-myaxx",
+        "name": "Myaxx",
+        "action": "Checks a tray of DNA samples",
+        "period": 6.4
+      },
+      {
+        "id": "cast-xylene",
+        "name": "Xylene",
+        "action": "Telekinetically moves Plumber equipment",
+        "period": 6
+      },
+      {
+        "id": "cast-reinrassig-iii",
+        "name": "Reinrassig III",
+        "action": "Watches a slowly rotating stellar chart",
+        "period": 8
+      }
+    ]
+  },
+  {
+    "id": "motion-05",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-06a2e6e2-f230-4a56-b790-3d988637bcae.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Zed from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Dark-blue quadruped dog-dinosaur with red eyes, blue-grey dorsal spikes continuing down long tail and black leg/neck stripes. Kevin's companion form wears light-blue collar and gold bone tag; predator form wears red spiked Nemetrix collar. Action: Follows a marked Nemetrix training trail. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Pakmar from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Very short green alien shopkeeper with knobbly warts around broad head, small eyes placed at the sides of face, little black suit with silver armor. Action: Sweeps the pavement outside his storefront. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Hokestar from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Green four-armed humanoid con-man, orange hair and large orange mustache hiding mouth, two thin antennae. Brown uniform with tan stars/pockets/gloves, tall brown hat bearing yellow star and goggles. Action: Rehearses an Undertown street performance. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Argit from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Short humanoid opossum-porcupine, long snout, tall ears with piercings, big yellow eyes with purple surrounds and black quills for hair. Omniverse orange zip jacket with yellow accents and orange-yellow trousers, pale cream undershirt, long tail. Action: Counts and recounts a pile of coins. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-zed",
+        "name": "Zed",
+        "action": "Follows a marked Nemetrix training trail",
+        "period": 5.7
+      },
+      {
+        "id": "cast-pakmar",
+        "name": "Pakmar",
+        "action": "Sweeps the pavement outside his storefront",
+        "period": 4.5
+      },
+      {
+        "id": "cast-hokestar",
+        "name": "Hokestar",
+        "action": "Rehearses an Undertown street performance",
+        "period": 5.8
+      },
+      {
+        "id": "cast-argit",
+        "name": "Argit",
+        "action": "Counts and recounts a pile of coins",
+        "period": 4.6
+      }
+    ]
+  },
+  {
+    "id": "motion-06",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-3ae8f824-6152-4822-8e32-800b111ef903.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Rad Dudesman from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Light-blue duck-like humanoid alien with darker blue beak, beige shirt with three black stripes, utility belt and helmet fitted with black visor. Action: Checks his ship controls and engines. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Fistrick from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Bulky muscular human criminal with orange mohawk, black-white face paint and purple body tattoos. Sleeveless black skull shirt, orange pants, arm/leg braces, knee pads, spiked silver shoes. Action: Lifts and lowers a heavy weight. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Sixsix from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Sotoraggian bounty hunter fully covered in silver-grey angular armor over purple padded suit, hooved feet, spiked shoulders, black-and-pink segmented faceplate, utility pouches and jetpack. Use Classic continuity armor rather than human face. Action: Checks the weapons in his bounty armour. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Sevenseven from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Very tall heavily armored bounty hunter resembling SixSix but magenta plated armor, black neck, waist, forearms and thighs; narrow angular helmet with glowing eye slits and heavy integrated weapons. Action: Sweeps a targeting device across the bay. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-rad-dudesman",
+        "name": "Rad Dudesman",
+        "action": "Checks his ship controls and engines",
+        "period": 5.5
+      },
+      {
+        "id": "cast-fistrick",
+        "name": "Fistrick",
+        "action": "Lifts and lowers a heavy weight",
+        "period": 4.1
+      },
+      {
+        "id": "cast-sixsix",
+        "name": "Sixsix",
+        "action": "Checks the weapons in his bounty armour",
+        "period": 5.4
+      },
+      {
+        "id": "cast-sevenseven",
+        "name": "Sevenseven",
+        "action": "Sweeps a targeting device across the bay",
+        "period": 5.9
+      }
+    ]
+  },
+  {
+    "id": "motion-07",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-22200f91-bebd-4264-8645-0da8ed64fea8.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, EightEight from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Smaller female Sotoraggian bounty hunter in dark-purple armor, distinctive hoop at back/end of helmet and pink X-shaped eye openings; paired handheld laser guns. Action: Patrols a landing pad and checks her blasters. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Kraab from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Gold-bronze crab cyborg bounty hunter, humanoid upper torso with sideways slit mouth, four long scythe crab legs, enormous left pincer containing a blaster, smaller right arm and orange circuit lines. Action: Works his mechanical claw against a target. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Psyphon from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Skeletal skinny paper-white humanoid with tall shark-fin head marked by three black stripes, red eyes in black patches and black lips. Sleeveless floor-length black robe and metal jaw/torso brace with red keypad on chest. Action: Projects and rotates a conquest map. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Khyber from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Seafoam-green-faced hunter with massive jaw, teeth fused along lip line, dark-red eyes and whistle gills under cheeks. Black-red shirt, grey pants/gloves, bone ribcage on chest, skull and tailbone shoulder trophies, black clawed boots. Action: Inspects a hunter\u2019s trophy and scans the trail. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-eighteight",
+        "name": "EightEight",
+        "action": "Patrols a landing pad and checks her blasters",
+        "period": 5.6
+      },
+      {
+        "id": "cast-kraab",
+        "name": "Kraab",
+        "action": "Works his mechanical claw against a target",
+        "period": 4.9
+      },
+      {
+        "id": "cast-psyphon",
+        "name": "Psyphon",
+        "action": "Projects and rotates a conquest map",
+        "period": 6.7
+      },
+      {
+        "id": "cast-khyber",
+        "name": "Khyber",
+        "action": "Inspects a hunter\u2019s trophy and scans the trail",
+        "period": 6.8
+      }
+    ]
+  },
+  {
+    "id": "motion-08",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-448534e1-397f-4ef3-af42-0a467031c08a.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Aggregor from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Tall human-like villain with long black hair, small flesh-colored horns, red eyes surrounded by black markings. Open-chested brown knee-length tunic, baggy blue jeans and calf-high black boots. Action: Studies an energy vessel on the platform. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Darkstar from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Darkstar's helmeted form hides zombie-grey face behind a silver-metal full helmet with dark eye and mouth holes; bluish-grey tunic and trousers, metal gloves, black boots. Omniverse palette is brighter bluish-purple with metallic gauntlets and thigh boots. Action: Drains and resets a glowing practice orb. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Eon from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Omniverse time villain in black-purple bodysuit, black trenchcoat with silver shoulder plates, silver neck collar, left gauntlet and boots; black helmet with purple visor revealing a long grey aged face and thin black lips. Action: Opens and closes a time rift. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Maltruant from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Black-metal Chronosapien with red glass chest window, red eyes, metal eyebrows, red grilled mouth, huge red cannon hands and key sticking out of head; distinctly dark mechanical clock villain. Action: Reassembles gears in a time machine. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-aggregor",
+        "name": "Aggregor",
+        "action": "Studies an energy vessel on the platform",
+        "period": 6.4
+      },
+      {
+        "id": "cast-darkstar",
+        "name": "Darkstar",
+        "action": "Drains and resets a glowing practice orb",
+        "period": 5.8
+      },
+      {
+        "id": "cast-eon",
+        "name": "Eon",
+        "action": "Opens and closes a time rift",
+        "period": 7.2
+      },
+      {
+        "id": "cast-maltruant",
+        "name": "Maltruant",
+        "action": "Reassembles gears in a time machine",
+        "period": 6.3
+      }
+    ]
+  },
+  {
+    "id": "motion-09",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-593d397e-f988-48e2-abf7-95b7f81a768e.png",
+    "prompt": "Use case: stylized-concept. Asset type: production pixel-style character sprite animation sheet for a Ben 10 fan website. ONE transparent PNG atlas, EXACTLY FOUR COLUMNS and FOUR ROWS, a precise 4x4 grid of 16 equally sized cells. Each row is one character repeating an authentic characteristic action in FOUR DIFFERENT POSES across its four columns. Crisp readable pixel-style 2D raster sprites, faithful recognizable original Ben 10 TV character faces/silhouettes/colours, dark outlines and clean cel shading. Full body from head to feet contained in each cell, 12 percent transparent padding on all sides. Feet align on the same baseline in each row; stable camera 3/4 facing toward screen right; no background, no shadow, no terrain, NO writing, NO row labels, NO cell labels, NO borders, NO grid lines, NO watermark. Keep ALL limbs, tails, horns and costume emblems within each cell; no object can touch or cross a neighboring cell. Any weapon or attached prop stays near the actor and inside the cell. OMIT detached particles and free-standing props because the renderer will animate those separately. Each pose must clearly differ: arms, body and limbs act, NOT four copies of the same idle stance. Avoid photorealistic skin, avoid soft blur, avoid generic figures, avoid any reboot redesign. Around 2048x2048 resolution if possible. ROW 1, Servantis from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Red Cerebrocrustacean-human hybrid with oversized scaled head, pointed beard/brows, lateral head spikes, red eyes and red forehead crystal. Black Proto-Tech armor, three-clawed hands, opened skull reveals pink brain. Action: Monitors the Rooter equipment display. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 2, Attea from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Teen Omniverse green humanoid frog princess with yellow-red eyes, dark-green forehead marks and athletic figure. Purple flight suit, grey gloves, goggles, white scarf and long white tights. Action: Studies an Incursean command map. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 3, Emperor Milleous from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Large fat green frog emperor with prominent warts, broad mouth, black-gold robe over purple robe, black sash/speedo and gold necklace holding three dark spheres. Action: Surveys his fleet from the command deck. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.\nROW 4, Billy Billions from original Ben 10 Classic / Alien Force / Ultimate Alien / Omniverse continuity: Eleven-year-old-looking human boy with enormous forehead and black hair styled into two devil-horn points, pale skin and imperious expression. Use Omniverse schoolboy suit from model reference, not the reboot's red-violet tux. Action: Programs and tests a small robot. Four consecutive full-body poses: 1 ready/anticipation; 2 begins the action; 3 action at maximum extension; 4 returns toward pose 1. Keep this exact same character in ALL FOUR COLUMNS of this row, same identity, same costume, same anatomy, same scale.  All visible Ben alien transformation forms carry their canonical Omnitrix insignia; other villains and friends do NOT get invented Omnitrix insignias. The characters must be immediately identifiable without reading labels.",
+    "entries": [
+      {
+        "id": "cast-servantis",
+        "name": "Servantis",
+        "action": "Monitors the Rooter equipment display",
+        "period": 6.7
+      },
+      {
+        "id": "cast-attea",
+        "name": "Attea",
+        "action": "Studies an Incursean command map",
+        "period": 6
+      },
+      {
+        "id": "cast-emperor-milleous",
+        "name": "Emperor Milleous",
+        "action": "Surveys his fleet from the command deck",
+        "period": 7.2
+      },
+      {
+        "id": "cast-billy-billions",
+        "name": "Billy Billions",
+        "action": "Programs and tests a small robot",
+        "period": 5.2
+      }
+    ]
+  },
+  {
+    "id": "motion-10",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-a4e1cbff-956a-44f8-a9c5-ca303c025470.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Rojo. Canonical design: Classic biker woman with maroon hair, pale skin, brown eyes, black lipstick and multiple ear piercings. Black gothic skull-shouldered jacket, grey shirt, gloves, choker, brown jeans; upgraded mechadroid variant has red skin, claws and shoulder blasters.. Loop: Tests her mechanical arm against a target. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Enoch. Canonical design: Classic Forever Knight leader with stern golden full-face mask and hooded dark-red robe, gold trim/belt; face must remain hidden behind sculpted metal mask.. Loop: Orders a knight patrol from the battlements. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Dagon. Canonical design: Massive green octopus-like demon with many facial tentacles, red eyes framed by two hooked projections and brown armor plates, long rear tentacle/tail; not a human villain.. Loop: Shifts behind a dimensional rift. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Frightwig. Canonical design: Classic pale circus woman with black face paint, olive-green eyes, five orange-red hair tentacles ending in black weighted orbs. Black fitted jumpsuit with yellow sleeve stripes and flat shoes.. Loop: Swirls her living hair toward a target. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-rojo",
+        "name": "Rojo",
+        "action": "Tests her mechanical arm against a target",
+        "period": 4.7
+      },
+      {
+        "id": "cast-enoch",
+        "name": "Enoch",
+        "action": "Orders a knight patrol from the battlements",
+        "period": 6.5
+      },
+      {
+        "id": "cast-dagon",
+        "name": "Dagon",
+        "action": "Shifts behind a dimensional rift",
+        "period": 8.8
+      },
+      {
+        "id": "cast-frightwig",
+        "name": "Frightwig",
+        "action": "Swirls her living hair toward a target",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "id": "motion-11",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-6516d169-e228-499f-985d-6f26d37e0db3.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Thumbskull. Canonical design: Huge bald muscular circus man, pale greenish skin and oversized flat fingernail embedded at top of forehead. Black overalls and grey striped shirt, outsized hands; do not turn him into a normal bald strongman.. Loop: Practices a heavy punch. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Acid Breath. Canonical design: Hunched wrinkled pale circus man, patchy straight black hair, red mismatched-pupil eyes, missing teeth and green gums. Black bodysuit with bright yellow bands down arms; green acid breath puff.. Loop: Blows a controlled acid cloud. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Sunder. Canonical design: Hulking grey humanoid alien with long white hair, two-slit nose, black eyes with red pupils and scar over left eye. Black overalls-like outfit edged red; huge energy axe. Omniverse adds silver face mask and spiked straps.. Loop: Sharpens and swings his axe. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Octagon Vreedle. Canonical design: Tall skinny light-grey noseless Vreedle with sunken yellow-red eyes; orange hat, orange-black jacket and red overalls, utility belt and gloves. Omniverse has oval face, goggles on hat and orange gloves.. Loop: Tests a questionable outpost device. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-thumbskull",
+        "name": "Thumbskull",
+        "action": "Practices a heavy punch",
+        "period": 4.1
+      },
+      {
+        "id": "cast-acid-breath",
+        "name": "Acid Breath",
+        "action": "Blows a controlled acid cloud",
+        "period": 5.3
+      },
+      {
+        "id": "cast-sunder",
+        "name": "Sunder",
+        "action": "Sharpens and swings his axe",
+        "period": 5.7
+      },
+      {
+        "id": "cast-octagon-vreedle",
+        "name": "Octagon Vreedle",
+        "action": "Tests a questionable outpost device",
+        "period": 5.3
+      }
+    ]
+  },
+  {
+    "id": "motion-12",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-765d8e7d-0f56-4e80-a5c5-f04e1ce1faeb.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Rhomboid Vreedle. Canonical design: Very stocky/buff grey noseless Vreedle with flat-top hair, yellow-red eyes and little chin-hair patch; orange shirt, red overalls, cap with goggles, utility belt and orange gloves.. Loop: Carries a crate across the outpost. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ma Vreedle. Canonical design: Enormous plump grey noseless Vreedle mother with blonde hair and yellow-red sunken eyes. Omniverse red hat and red jacket over long yellow dress; Ultimate Alien version has pink dress and white gloves.. Loop: Inspects the family outpost perimeter. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Princess Looma. Canonical design: Tall muscular red-skinned four-armed Tetramand princess, four eyes and long dark hair, traditional gold/black battle armor and horned helmet, gold leg armor and white arm/calf/midriff wraps.. Loop: Spars with all four arms. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ester. Canonical design: Light-pink Kraaho-human teen with purple eyes, pink-red hair, two purple cheek marks and big white eyebrow growths. Purple fur-collared/cuffed jacket, pink stockings, purple winter boots and diamond-topped tiara.. Loop: Stretches toward a high market shelf. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-rhomboid-vreedle",
+        "name": "Rhomboid Vreedle",
+        "action": "Carries a crate across the outpost",
+        "period": 6.7
+      },
+      {
+        "id": "cast-ma-vreedle",
+        "name": "Ma Vreedle",
+        "action": "Inspects the family outpost perimeter",
+        "period": 6.2
+      },
+      {
+        "id": "cast-princess-looma",
+        "name": "Princess Looma",
+        "action": "Spars with all four arms",
+        "period": 4.5
+      },
+      {
+        "id": "cast-ester",
+        "name": "Ester",
+        "action": "Stretches toward a high market shelf",
+        "period": 5.6
+      }
+    ]
+  },
+  {
+    "id": "motion-13",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-598aec37-a075-45a2-92fd-cc877f597c75.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Ultimos. Canonical design: Very muscular dark-blue bald alien superhero with large square jaw and four fingers, pale-blue eyes inside a dark domino mask. Yellow one-piece suit with stylized U on chest and white cape held by gold clasps.. Loop: Flies between Galactic Enforcer markers. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Synaptek. Canonical design: Floating mechanical octopus: exposed blue brain inside clear glass dome/jar, supported by eight flexible tentacles, metallic lower platform and distinct mechanical eye/face panels.. Loop: Levitates and returns a training weight. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Tini. Canonical design: Red four-armed muscular female Tetramand with head/arm spikes, two toes on each foot and orange-red eyes. Classic gold chestplate/shoulder pads, spiked gold circlet, gold wrist/ankle cuffs, white skirt with gold belt and blue emblem.. Loop: Practices a Tetramand strength routine. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ben Prime. Canonical design: Omniverse teen with messy brown hair and green eyes; black short-sleeve shirt with lime green vertical center and side stripes, white 10 on chest, brown cargo pants, green-white sneakers. Square completed Omnitrix on LEFT wrist.. Loop: Checks the completed Omnitrix on patrol. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-ultimos",
+        "name": "Ultimos",
+        "action": "Flies between Galactic Enforcer markers",
+        "period": 6
+      },
+      {
+        "id": "cast-synaptak",
+        "name": "Synaptek",
+        "action": "Levitates and returns a training weight",
+        "period": 6.5
+      },
+      {
+        "id": "cast-tini",
+        "name": "Tini",
+        "action": "Practices a Tetramand strength routine",
+        "period": 5.4
+      },
+      {
+        "id": "ben-ben-prime",
+        "name": "Ben Prime",
+        "action": "Checks the completed Omnitrix on patrol",
+        "period": 4.6
+      }
+    ]
+  },
+  {
+    "id": "motion-14",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-f80c64b4-a21a-4955-acfd-750fb1171c35.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Alien Force Ben. Canonical design: Teen with short brown hair, green eyes; green zip jacket over black tee, white stripes on LEFT sleeve and white 10 on RIGHT chest, blue jeans and black-white Converse-style shoes. Recalibrated Omnitrix on LEFT wrist.. Loop: Checks a recalibrated Omnitrix hologram. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ultimate Alien Ben. Canonical design: Teen with short brown hair, green eyes; green jacket over black shirt, left-sleeve white stripes and right chest 10, blue jeans, black-white shoes. Longer green-black Ultimatrix gauntlet on LEFT forearm distinguishes UA from AF.. Loop: Selects DNA on the Ultimatrix. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Ben 23. Canonical design: Brown-haired blue-eyed young boy with long bangs covering left eye; BLUE short-sleeve shirt with blue tie under BLACK waistcoat with blue pockets, blue trousers, gold earrings and gold watch medallion, gold ring. Blue Hero Watch on LEFT wrist; DO NOT use a blue recolor of Ben's jacket.. Loop: Displays a blue Hero Watch hologram. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Gwen 10. Canonical design: Young girl with short red bob and blue hairclip, blue eyes; blue raglan shirt whose cat logo contains number10, white capri trousers, white-blue sneakers. Violet/blue themed Omnitrix on LEFT wrist, not teen Gwen school skirt.. Loop: Selects a violet Omnitrix hologram. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ben-alien-force-ben",
+        "name": "Alien Force Ben",
+        "action": "Checks a recalibrated Omnitrix hologram",
+        "period": 4.9
+      },
+      {
+        "id": "ben-ultimate-alien-ben",
+        "name": "Ultimate Alien Ben",
+        "action": "Selects DNA on the Ultimatrix",
+        "period": 4.8
+      },
+      {
+        "id": "ben-ben-23",
+        "name": "Ben 23",
+        "action": "Displays a blue Hero Watch hologram",
+        "period": 4.5
+      },
+      {
+        "id": "ben-gwen-10",
+        "name": "Gwen 10",
+        "action": "Selects a violet Omnitrix hologram",
+        "period": 4.8
+      }
+    ]
+  },
+  {
+    "id": "motion-15",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-50c26917-21dd-410f-a404-d2a4d7596486.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Bad Ben. Canonical design: Teen strongly resembling Omniverse Ben but BLACK hair and mint-green eyes; mint-green center panel/10 on black tee, darker-brown cargo pants and black shoes. Mint-green Omnitrix on LEFT wrist.. Loop: Selects a teal alternate-timeline hologram. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Mad Ben. Canonical design: Tanned orange-eyed teen with MOHAWK, black eye stripes, silver hoop earrings, black leather vest over orange sleeveless shirt, orange-yellow pants and gothic boots. Silver spiked armor on left shoulder/right glove/right boot; orange-silver spiked Power Watch on LEFT wrist.. Loop: Checks an amber Power Watch selection. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Nega Ben. Canonical design: Pale teen with choppy black emo hair covering one eye, grey eyes and black eyeliner; BLACK hoodie, pale-green trousers and black shoes. Black-grey Negatrix on LEFT wrist; not simply a black-shirt Ben recolor.. Loop: Checks the grey Negatrix display. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Benzarro. Canonical design: Hunched zombie teen with blotchy GREEN skin, long neck, small purple hair, purple eyes, yellow underbite teeth and animalistic toes. PURPLE straitjacket with sewn 10 and many buckles, patched pants; Zombitrix buckle attached near LEFT elbow, not normal wristwatch.. Loop: Shuffles and raises the Zombitrix. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ben-bad-ben",
+        "name": "Bad Ben",
+        "action": "Selects a teal alternate-timeline hologram",
+        "period": 4.2
+      },
+      {
+        "id": "ben-mad-ben",
+        "name": "Mad Ben",
+        "action": "Checks an amber Power Watch selection",
+        "period": 5
+      },
+      {
+        "id": "ben-nega-ben",
+        "name": "Nega Ben",
+        "action": "Checks the grey Negatrix display",
+        "period": 5.8
+      },
+      {
+        "id": "ben-benzarro",
+        "name": "Benzarro",
+        "action": "Shuffles and raises the Zombitrix",
+        "period": 6
+      }
+    ]
+  },
+  {
+    "id": "motion-16",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-54899cb9-083c-4670-91b1-bd2c0917a27d.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Albedo. Canonical design: Pale teen with WHITE hair, RED eyes and dark circles; RED jacket with BLACK sleeve stripes and mirrored 01 detail over black tee, dark-grey jeans. Omniverse Ultimatrix worn on RIGHT hand; avoid generic red-jacket brown-haired Ben.. Loop: Checks a red stabilizer hologram. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: No Watch Ben. Canonical design: Omniverse brown-haired green-eyed Ben in white-green hoodie WITHOUT number10, brown cargo pants and green-white shoes. Bare wrist: no Omnitrix and no glowing device.. Loop: Watches the timelines intersect. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Ben 10,000 (Classic). Canonical design: Tall muscular adult Ben with slicked brown hair, green eyes, clean-shaven first-debut version; BLACK short-sleeve tee with WHITE central stripe and accents, army-green pants, belt, fingerless gloves and black boots. Original-future Omnitrix on left wrist.. Loop: Checks the future Omnitrix display. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ultimate Ben. Canonical design: Tall muscular full-BEARDED adult Ben with brown hair combed left; graphite tee with custom white hourglass motif, high green trousers, utility pouch belt and calf-high black boots with brown straps. EVOLVED Ultimatrix symbol ON CHEST while channeling powers, not a standard hand-held device.. Loop: Channels an alien-power hologram. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ben-albedo",
+        "name": "Albedo",
+        "action": "Checks a red stabilizer hologram",
+        "period": 4.7
+      },
+      {
+        "id": "ben-no-watch-ben",
+        "name": "No Watch Ben",
+        "action": "Watches the timelines intersect",
+        "period": 7.6
+      },
+      {
+        "id": "ben-ben-10-000-classic",
+        "name": "Ben 10,000 (Classic)",
+        "action": "Checks the future Omnitrix display",
+        "period": 5.1
+      },
+      {
+        "id": "ben-ultimate-ben",
+        "name": "Ultimate Ben",
+        "action": "Channels an alien-power hologram",
+        "period": 5.6
+      }
+    ]
+  },
+  {
+    "id": "motion-17",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-d4a98760-363d-43c7-8143-a4fa437814dd.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Ben 10,000 (Omniverse). Canonical design: Muscular adult Ben with goatee and greying brown temples; WHITE tee with GREEN stripe and accents, green cargo pants with pouches and dark-grey kneepads, belt marked 10K, tall black-white boots. Dual BIOMNITRIX on BOTH wrists.. Loop: Synchronizes both Biomnitrix displays. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ken Tennyson (watch). Canonical design: Child resembling Classic Ben with DARKER skin inherited from Kai, dark-brown hair and green eyes; black-white shirt and baggy green cargo pants, classic sneakers and own Omnitrix on LEFT wrist. Distinguish from father with tan skin and child proportions.. Loop: Practices with his replica Omnitrix. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Argit (Argitrix). Canonical design: Short porcupine/opossum humanoid with long snout and tail, pierced tall ears, yellow eyes with purple surrounds and black hair quills. Orange-yellow jacket/trousers and cream undershirt; orange-gold Argitrix on LEFT wrist; never draw a human Ben.. Loop: Checks an Argitrix hologram. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Wildmutt. Canonical design: ORANGE blind quadruped dog/ape creature with NO visible eyes, nose, ears OR tail, heavy upper arms, huge protruding lower jaw and teeth, sensory spines along back/neck. Omnitrix shoulder/upper arm; must remain eyeless.. Loop: Follows a scent trail through the grass. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ben-ben-10-000-omniverse",
+        "name": "Ben 10,000 (Omniverse)",
+        "action": "Synchronizes both Biomnitrix displays",
+        "period": 5.8
+      },
+      {
+        "id": "ben-ken-tennyson-watch",
+        "name": "Ken Tennyson (watch)",
+        "action": "Practices with his replica Omnitrix",
+        "period": 4.9
+      },
+      {
+        "id": "ben-argit-argitrix",
+        "name": "Argit (Argitrix)",
+        "action": "Checks an Argitrix hologram",
+        "period": 5.3
+      },
+      {
+        "id": "wildmutt",
+        "name": "Wildmutt",
+        "action": "Follows a scent trail through the grass",
+        "period": 5.4
+      }
+    ]
+  },
+  {
+    "id": "motion-18",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-84182c61-5d81-4b8a-8ecb-9f4b1add4424.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Diamondhead. Canonical design: AQUAMARINE faceted diamond humanoid with angular wedge head, yellow eyes, FOUR long crystalline BACK shards, broad blocky arms. Classic sleeveless suit RIGHT half black/LEFT half white with Omnitrix LEFT shoulder.. Loop: Raises and resets a crystal shield. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Grey Matter. Canonical design: Tiny six-inch GREY frog humanoid with enormous YELLOW-GREEN rectangular-pupil eyes, broad flattened head and thin limbs. WHITE jumpsuit with thin BLACK center stripe continuing over forehead; Omnitrix on BACK.. Loop: Repairs a tiny illuminated circuit. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Stinkfly. Canonical design: Insect body with FOUR crab-like walking legs PLUS TWO arms, FOUR long EYESTALKS, TWO translucent green-yellow wings and long spiked STINGER tail. White-black jumpsuit, Omnitrix FOREHEAD; not reboot humanoid blue stinkfly.. Loop: Hovers and drops a glob of slime. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ripjaws. Canonical design: Pale-GREY anglerfish humanoid with enormous hinged toothy mouth, small pink-grey eyes on green sockets, glowing dangling HEAD LURE, webbed clawed hands and dorsal fin. Lower body switches between two legs and long fish TAIL; Classic chest/body suit black-white.. Loop: Swims a loop through the tidal cavern. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "diamondhead",
+        "name": "Diamondhead",
+        "action": "Raises and resets a crystal shield",
+        "period": 4.7
+      },
+      {
+        "id": "grey-matter",
+        "name": "Grey Matter",
+        "action": "Repairs a tiny illuminated circuit",
+        "period": 4.1
+      },
+      {
+        "id": "stinkfly",
+        "name": "Stinkfly",
+        "action": "Hovers and drops a glob of slime",
+        "period": 4.8
+      },
+      {
+        "id": "ripjaws",
+        "name": "Ripjaws",
+        "action": "Swims a loop through the tidal cavern",
+        "period": 4.6
+      }
+    ]
+  },
+  {
+    "id": "motion-19",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-2713f0b4-58a6-4152-886e-38b8aa1205dd.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Upgrade. Canonical design: BLACK liquid-metal amorphous humanoid patterned with vivid GREEN circuitry, ONE circular green EYE and flexible long arms. Classic front torso is WHITE with chest Omnitrix; merges with gadget prop.. Loop: Flows into and out of a terminal. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ghostfreak. Canonical design: Pale-GREY asymmetrical floating ghost with long curling TAIL instead of legs, black seam lines over shroud skin, long claw hands and ONE purple EYE wandering within black seam. Classic chest Omnitrix; no humanoid feet or normal face.. Loop: Phases through the Anur mist. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Cannonbolt. Canonical design: Huge round panda-like WHITE/BLACK body with YELLOW armor plates on BACK, shoulders and backs of forearms, four black hand claws and yellow eyes. Omnitrix FOREHEAD in Classic, curls into armored striped BALL.. Loop: Rolls around a bumper course. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Wildvine. Canonical design: GREEN plant creature with ONE large BLUE central eye, Venus-flytrap petal collar/head flaps, secondary shoulder eyes and FIVE vine LEGS, four long fingers. Back carries bulbous seed-bomb fruits; chest Omnitrix.. Loop: Extends a vine toward a trellis. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "upgrade",
+        "name": "Upgrade",
+        "action": "Flows into and out of a terminal",
+        "period": 4.4
+      },
+      {
+        "id": "ghostfreak",
+        "name": "Ghostfreak",
+        "action": "Phases through the Anur mist",
+        "period": 5.5
+      },
+      {
+        "id": "cannonbolt",
+        "name": "Cannonbolt",
+        "action": "Rolls around a bumper course",
+        "period": 3.3
+      },
+      {
+        "id": "wildvine",
+        "name": "Wildvine",
+        "action": "Extends a vine toward a trellis",
+        "period": 5.2
+      }
+    ]
+  },
+  {
+    "id": "motion-20",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-36f0fd0a-eec6-45b9-8252-9ca460b2a993.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Blitzwolfer. Canonical design: Grey-furred werewolf with broad snout, bushy TAIL, three furry chin tendrils, three sharp hand/foot claws and elbow/shoulder spikes. WHITE-black suit and Omnitrix lower BELLY; mouth splits open for sonic HOWL.. Loop: Releases a pulsing sonic howl. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Snare-Oh. Canonical design: Beige/grey mummy made from long elastic BANDAGES with glowing GREEN eyes/gaps, BLACK-GOLD pharaoh headdress, black bracers/greaves. Classic Omnitrix LEFT shoulder, loose ribbon arms unwrap and rewind.. Loop: Uncoils and gathers his bandages. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Frankenstrike. Canonical design: Massive stitched grey-YELLOW Frankenstein humanoid with black hair/sideburns, mismatched sewn skin sections and black pants/boots. TWO large electrical COILS project from BACK/shoulders, green eyes and chest Omnitrix; bolts not generic robot.. Loop: Charges his shoulder coils. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Upchuck (Perk). Canonical design: Short round LIGHT-GREEN Gourmand, darker-green head patch, SIX sprout-like head growths, vent gills, crooked overbite and curled TAIL. Classic black open-front suit with white sleeves/leg bands, Omnitrix LEFT HAND; several long sticky tongues.. Loop: Pulls scrap toward his mouth. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "blitzwolfer",
+        "name": "Blitzwolfer",
+        "action": "Releases a pulsing sonic howl",
+        "period": 4.6
+      },
+      {
+        "id": "snare-oh",
+        "name": "Snare-Oh",
+        "action": "Uncoils and gathers his bandages",
+        "period": 5.8
+      },
+      {
+        "id": "frankenstrike",
+        "name": "Frankenstrike",
+        "action": "Charges his shoulder coils",
+        "period": 4.2
+      },
+      {
+        "id": "upchuck-perk",
+        "name": "Upchuck (Perk)",
+        "action": "Pulls scrap toward his mouth",
+        "period": 4.9
+      }
+    ]
+  },
+  {
+    "id": "motion-21",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-5e3bf8c7-8974-4081-bca8-6ec7241e514e.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Ditto. Canonical design: Child-size WHITE-black humanoid with THREE head fins, large FOUR-digit hands, stubby feet and GREEN sensory nodes on arms/waist, green eyes. Black overall-like suit, Omnitrix FOREHEAD; matching clones use same design.. Loop: Splits into a playful pair of doubles. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Eye Guy. Canonical design: Tan humanoid covered in about TWENTY GREEN EYES on torso/arms/back, huge bat EARS, mouth on face but NO eyes on face. ONE large CHEST eye, black trousers with white bands and white Omnitrix BELT.. Loop: Aims a precision eye beam. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Way Big. Canonical design: Extremely tall RED-white Ultraman-like To'kustar with slender muscular body, pointed center HEAD FIN, cheek fins, shoulder/elbow fins, green eyes and black body trim. Chest Omnitrix; full silhouette preserved despite giant scale.. Loop: Sweeps a cosmic ray across a practice beacon. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Arctiguana. Canonical design: Broad blue-white IGUANA with chunky body, short limbs, three large dorsal FINS, small face spikes and WHITE gills at cheeks. Classic BLACK open-front shirt, white trousers/cuffs and Omnitrix LEFT hand; wide mouth breathes ice.. Loop: Freezes and thaws a small target. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ditto",
+        "name": "Ditto",
+        "action": "Splits into a playful pair of doubles",
+        "period": 5.4
+      },
+      {
+        "id": "eye-guy",
+        "name": "Eye Guy",
+        "action": "Aims a precision eye beam",
+        "period": 4.5
+      },
+      {
+        "id": "way-big",
+        "name": "Way Big",
+        "action": "Sweeps a cosmic ray across a practice beacon",
+        "period": 6.8
+      },
+      {
+        "id": "arctiguana",
+        "name": "Arctiguana",
+        "action": "Freezes and thaws a small target",
+        "period": 4.8
+      }
+    ]
+  },
+  {
+    "id": "motion-22",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-9eb6d1ea-4d36-45e0-8b7b-cd4ab06bfa87.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Buzzshock. Canonical design: Tiny BLACK battery-shaped Nosedeenian with yellow LIGHTNING motif on body, flat battery-cap head, lime-yellow eyes/mouth and small black limbs. Omnitrix chest; no tall human electric hero.. Loop: Bounces a charge between power cells. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Spitter. Canonical design: Bulbous GREEN pufferfish with huge wide MOUTH covering front body, pointed teeth, eyes at corners of lips, three top sensory stalks plus pair lower stalks, stub legs, four-finger arms and LONG tail. Black pants partly cover belly, Omnitrix STOMACH.. Loop: Spits a glob toward a quarry target. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Swampfire. Canonical design: Tall olive-GREEN plant humanoid with BLACK vine/muck sections, RED flame-petal head, shoulder petals and thick root feet. Green eyes, Omnitrix on chest; plant skin and flame hands must coexist.. Loop: Reignites a flower among growing vines. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Echo Echo. Canonical design: SHORT white silicone humanoid, rounded head with large green eyes, headphone-like ear covers connected to square MP3-player back unit, green circular sound holes on hands, speaker-line mouth. Black cassette details on lower legs and chest Omnitrix.. Loop: Sends rings of sound through the chamber. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "buzzshock",
+        "name": "Buzzshock",
+        "action": "Bounces a charge between power cells",
+        "period": 3.1
+      },
+      {
+        "id": "spitter",
+        "name": "Spitter",
+        "action": "Spits a glob toward a quarry target",
+        "period": 5
+      },
+      {
+        "id": "swampfire",
+        "name": "Swampfire",
+        "action": "Reignites a flower among growing vines",
+        "period": 5.2
+      },
+      {
+        "id": "echo-echo",
+        "name": "Echo Echo",
+        "action": "Sends rings of sound through the chamber",
+        "period": 3.8
+      }
+    ]
+  },
+  {
+    "id": "motion-23",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-389da607-ac61-4936-81f3-ab4d4a82f1e4.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Humungousaur. Canonical design: Huge muscular TAN/brown humanoid dinosaur with CREAM chest/belly/jaw, two thick arms, thick tail, elephant-like feet and broad snout. Base Classic continuity has NO reboot mace tail, no metal armor, green eyes and chest Omnitrix.. Loop: Grows and lifts a training boulder. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Jetray. Canonical design: RED manta-ray humanoid with YELLOW patagium membranes from arms to body, yellow nose horns, green eyes and two BLACK lightning chest stripes converging on Omnitrix. Streamlined gliding posture and long tail.. Loop: Loops between aerial markers. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Big Chill. Canonical design: Slender BLACK-and-BLUE moth humanoid with FOUR cyan-blue patched wings and two antennae, green eyes, skeletal limbs and icy cyan patches. Folded wings become a hooded PONCHO cloak, chest Omnitrix.. Loop: Floats through a frost-covered arch. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Chromastone. Canonical design: INDIGO rocky crystal humanoid, MAGENTA face/hands and six magenta back shards, two chest shards and one long top horn. ONE large GREEN cyclops eye, black body lines/spots and chest Omnitrix; not Diamondhead blue.. Loop: Absorbs light and returns a refracted beam. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "humungousaur",
+        "name": "Humungousaur",
+        "action": "Grows and lifts a training boulder",
+        "period": 5.8
+      },
+      {
+        "id": "jetray",
+        "name": "Jetray",
+        "action": "Loops between aerial markers",
+        "period": 4.2
+      },
+      {
+        "id": "big-chill",
+        "name": "Big Chill",
+        "action": "Floats through a frost-covered arch",
+        "period": 6
+      },
+      {
+        "id": "chromastone",
+        "name": "Chromastone",
+        "action": "Absorbs light and returns a refracted beam",
+        "period": 5.6
+      }
+    ]
+  },
+  {
+    "id": "motion-24",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-fa56fab5-be87-437c-a3ca-d38fc371042d.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Brainstorm. Canonical design: RUST-orange crab body with SIX legs, TWO large pincers and hinged carapace opening to expose HUGE corrugated PINK brain. Silver-black neck collar bears green Omnitrix; no bipedal humanoid shape.. Loop: Solves a circuit with electrical arcs. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Spidermonkey. Canonical design: Small agile BLUE monkey with FOUR arms, TWO legs, FOUR green eyes and striped prehensile tail; dark-blue center fur, three fingers/toes. Chest Omnitrix and web-tail action.. Loop: Swings along a repeating web line. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Goop. Canonical design: Bright lime-GREEN translucent slime humanoid with green eyes, fluid reshaping limbs, and separate small silver UFO ANTI-GRAVITY PROJECTOR hovering overhead in EVERY frame. Omnitrix chest for AF/UA, projector for OV; projector must stay outside body.. Loop: Reshapes under his anti-gravity projector. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Alien X. Canonical design: Tall solid BLACK humanoid containing white STARS/galaxies, three head horns (central crest and eyebrow horns), white glowing pupil-less eyes. White Omnitrix chest emblem; no armor, hair or human face.. Loop: Holds a miniature galaxy in orbit. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "brainstorm",
+        "name": "Brainstorm",
+        "action": "Solves a circuit with electrical arcs",
+        "period": 4.9
+      },
+      {
+        "id": "spidermonkey",
+        "name": "Spidermonkey",
+        "action": "Swings along a repeating web line",
+        "period": 4.1
+      },
+      {
+        "id": "goop",
+        "name": "Goop",
+        "action": "Reshapes under his anti-gravity projector",
+        "period": 5
+      },
+      {
+        "id": "alien-x",
+        "name": "Alien X",
+        "action": "Holds a miniature galaxy in orbit",
+        "period": 8.4
+      }
+    ]
+  },
+  {
+    "id": "motion-25",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-a449ea59-96df-4194-90c8-3f479a8793bf.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Lodestar. Canonical design: BLACK/brown living-metal torso with YELLOW shoulders/chest/hands/feet, two pincer claws. Small metallic head FLOATS separately in a gap between high horseshoe shoulders, surrounded by white/green magnetic aura; chest Omnitrix.. Loop: Suspends scrap in a magnetic field. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Rath. Canonical design: Muscular upright ORANGE tiger with BLACK stripes and WHITE jaw/chest/stomach/hands/feet, green eyes, NO TAIL. One long BLACK CLAW from EACH wrist; chest Omnitrix, no human boxing gloves.. Loop: Strikes a sparring dummy with his claws. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Nanomech. Canonical design: Hand-size GREY techno-insect humanoid with GREEN circuit lines, translucent green wings and ONE oversized green eye, triangular feet. AF/UA chest Omnitrix; do not draw full-size armored robot.. Loop: Flies close to a microchip scanner. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Upchuck (Murk). Canonical design: Small squat SWAMP-GREEN Gourmand with tan belly/muzzle, black head sprouts, dark body spots and short STRAIGHT tail, sharp green eyes and crooked canine teeth. Four long green tongues and Omnitrix chest.. Loop: Consumes and recycles a scrap pile. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "lodestar",
+        "name": "Lodestar",
+        "action": "Suspends scrap in a magnetic field",
+        "period": 5.7
+      },
+      {
+        "id": "rath",
+        "name": "Rath",
+        "action": "Strikes a sparring dummy with his claws",
+        "period": 3.4
+      },
+      {
+        "id": "nanomech",
+        "name": "Nanomech",
+        "action": "Flies close to a microchip scanner",
+        "period": 3.8
+      },
+      {
+        "id": "upchuck-murk",
+        "name": "Upchuck (Murk)",
+        "action": "Consumes and recycles a scrap pile",
+        "period": 5.1
+      }
+    ]
+  },
+  {
+    "id": "motion-26",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-ed4eb785-b8a6-4881-ad67-8e6b516adfe9.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Water Hazard. Canonical design: RED mollusk/crustacean armored humanoid with GREEN eyes beneath rough hood, unmoving GREY mouth, grey lower torso and joints, grey spikes and black shell spots. LARGE circular WATER PORTS on palms; OV has FOUR slitted eyes and additional barnacle nozzles, UA has two eyes.. Loop: Sprays two jets into a water wheel. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ampfibian. Canonical design: BLUE floating jellyfish alien with WHITE lightning streaks, three skirt-like body segments and SIX long tentacles functioning as FOUR arms and TWO legs. Green pupil-less eyes, head flaps and chest Ultimatrix.. Loop: Floats while weaving electric currents. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Armodrillo. Canonical design: Large YELLOW biological armadillo/jackhammer with bulky segmented armor, long grey tail and helmet-like head with two ear projections. Massive drill fists, piston/elbow mechanisms and black limb joints, chest Omnitrix.. Loop: Drills and clears a practice tunnel. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Terraspin. Canonical design: Round GREEN turtle with BROWN/tan wide shell bearing EIGHT vent holes in UA, huge FLIPPER arms and stubby legs; green eyes. Arms spin like fan blades; chest emblem on shell; not conventional upright turtle.. Loop: Spins a controlled gust across the deck. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "water-hazard",
+        "name": "Water Hazard",
+        "action": "Sprays two jets into a water wheel",
+        "period": 4.6
+      },
+      {
+        "id": "ampfibian",
+        "name": "Ampfibian",
+        "action": "Floats while weaving electric currents",
+        "period": 5.4
+      },
+      {
+        "id": "armodrillo",
+        "name": "Armodrillo",
+        "action": "Drills and clears a practice tunnel",
+        "period": 4.2
+      },
+      {
+        "id": "terraspin",
+        "name": "Terraspin",
+        "action": "Spins a controlled gust across the deck",
+        "period": 4.5
+      }
+    ]
+  },
+  {
+    "id": "motion-27",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-34fecb20-e7cf-4c95-871c-52e0d36aa90a.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: NRG. Canonical design: Heavy dark CHARLESTON-GREEN/grey OVEN-like armored containment suit, short rectangular head with THREE orange glowing face slits, huge cylindrical torso and thick limbs. Chest seal contains Omnitrix; suit must enclose red radioactive being.. Loop: Vents heat inside his containment suit. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Fasttrack. Canonical design: Slender athletic BLUE-and-BLACK CAT humanoid speedster with GREEN eyes, black mask-like pointed face fins, triangular nose, blue lightning chest pattern and blade projections on forearms/shins. NO roller feet or XLR8 helmet; chest Ultimatrix.. Loop: Runs a relay between two markers. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Chamalien. Canonical design: Slim PURPLE salamander humanoid with darker purple camo spots, short tail, long sharp-toothed mouth, four fingers and three toes. Black head helmet with THREE triangular eyes/lenses LEFT BLUE, RIGHT RED, CENTER GREEN and back fin; chest Ultimatrix.. Loop: Fades into a patterned wall. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Eatle. Canonical design: ULTIMATE ALIEN version: bulky DARK-BLUE metallic humanoid with gigantic SILVER serrated upper-torso mouth, little swiveling eye head above mouth and towering front horn, short rear horn. Silver waist/wrist/sole accents, green mouth interior, chest emblem.. Loop: Chews scrap and releases an energy beam. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "nrg",
+        "name": "NRG",
+        "action": "Vents heat inside his containment suit",
+        "period": 5.9
+      },
+      {
+        "id": "fasttrack",
+        "name": "Fasttrack",
+        "action": "Runs a relay between two markers",
+        "period": 2.8
+      },
+      {
+        "id": "chamalien",
+        "name": "Chamalien",
+        "action": "Fades into a patterned wall",
+        "period": 5.7
+      },
+      {
+        "id": "eatle",
+        "name": "Eatle",
+        "action": "Chews scrap and releases an energy beam",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "id": "motion-28",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-fcdc3549-67e8-4e4d-a49c-b031abd2ebf0.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Clockwork. Canonical design: Bulky GOLD/bronze mechanical clock humanoid, rounded belly with GREEN glass clock window, thick short legs and winding KEY protruding from head. Black joints, gear details, green eyes and chest Omnitrix; no human face.. Loop: Rewinds a gear through a short time loop. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Jury Rigg. Canonical design: Tiny crimson/red GREMLIN with huge pointed nose/ears, sharp protruding teeth and devil-tip tail. Omniverse aviator cap/goggles, brown flight suit and ascot, Omnitrix on waist; not a red human mechanic.. Loop: Builds and dismantles a workshop gadget. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Shocksquatch. Canonical design: OMNIVERSE yellow-and-BLACK gorilla/yeti with GREY fingers/toes, green eyes, yellow lightning-horn brow and metal bolts on WRIST SIDES. Green-white Omnitrix belt; UA Heroes United version is grey-white-blue fur with pink face.. Loop: Sparks between his fingertips. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Feedback. Canonical design: Tall BLACK Conductoid with ONE green cyclops eye, TWO long cable antennae and one cable tail ending in socket PLUGS; plug-tipped fingers. Omniverse green chest patch and gold battery bolts shoulders/hips, chest emblem.. Loop: Absorbs and returns an energy pulse. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "clockwork",
+        "name": "Clockwork",
+        "action": "Rewinds a gear through a short time loop",
+        "period": 6.3
+      },
+      {
+        "id": "jury-rigg",
+        "name": "Jury Rigg",
+        "action": "Builds and dismantles a workshop gadget",
+        "period": 3.2
+      },
+      {
+        "id": "shocksquatch",
+        "name": "Shocksquatch",
+        "action": "Sparks between his fingertips",
+        "period": 4.1
+      },
+      {
+        "id": "feedback",
+        "name": "Feedback",
+        "action": "Absorbs and returns an energy pulse",
+        "period": 4.3
+      }
+    ]
+  },
+  {
+    "id": "motion-29",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-d4ac6983-dc04-4d43-b8d5-7b67e3d5fe69.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Bloxx. Canonical design: Bulky GORILLA made entirely of RED/YELLOW/BLUE toy-like organic BUILDING BLOCKS with visible STUDS and black seams, huge hands and stub feet. Green Omnitrix on chest; not generic rectangular robot.. Loop: Builds and collapses a colourful arch. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Gravattack. Canonical design: Huge reddish-BROWN rocky living PLANET, FACE ON TORSO and NO separate head, rock teeth and glowing orange planetary CORE in belly. Heavy three-toed feet, broad arms, black-green shorts, Omnitrix on upper torso.. Loop: Keeps stones orbiting his gravity field. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Crashhopper. Canonical design: Olive-GREEN grasshopper/praying-mantis biped, small triangular insect head with black face and green eyes, massive THREE-JOINTED hind jumping LEGS, small forearms. Black/green outfit and chest Omnitrix.. Loop: Hops over three canopy hurdles. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ball Weevil. Canonical design: TINY yellow insect with large antenna, beak, black eyes with green pupils and FOUR thin stick legs. Omnitrix on green-white collar; rolls translucent green sticky plasma orb larger than body.. Loop: Rolls an expanding plasma ball. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "bloxx",
+        "name": "Bloxx",
+        "action": "Builds and collapses a colourful arch",
+        "period": 5.1
+      },
+      {
+        "id": "gravattack",
+        "name": "Gravattack",
+        "action": "Keeps stones orbiting his gravity field",
+        "period": 7.1
+      },
+      {
+        "id": "crashhopper",
+        "name": "Crashhopper",
+        "action": "Hops over three canopy hurdles",
+        "period": 3.1
+      },
+      {
+        "id": "ball-weevil",
+        "name": "Ball Weevil",
+        "action": "Rolls an expanding plasma ball",
+        "period": 4.4
+      }
+    ]
+  },
+  {
+    "id": "motion-30",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-0582dbe9-64b0-4938-a003-81c22d7974f8.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Walkatrout. Canonical design: TINY round BLUE fish with large lower-lip mouth, fin arms, dorsal shark fin and TWO extremely thin dangling legs. Green belt/Omnitrix around belly; no humanoid arms or feet.. Loop: Slides along a wet stone ledge. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Pesky Dust. Canonical design: Tiny BLUE fairy with upright BLUE hair, PURPLE translucent wings, pink cheek/chin dots, green eyes with lashes. Green dress-like outfit with BLACK zigzags, WHITE three-finger gloves; chest Omnitrix, delicate wings not insect exoskeleton.. Loop: Sprinkles dream dust over the grove. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Mole-Stache. Canonical design: Short pot-bellied BROWN mole-rat with thin ears, buck teeth, brown body spots and huge YELLOW-blond mustache capable of becoming arms. GREEN-BLACK jumpsuit enclosing head but ears stick out, WHITE gloves, green-white Omnitrix belt.. Loop: Lifts a crate with his prehensile moustache. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: The Worst. Canonical design: Small pudgy round MUSTARD-YELLOW blob alien with wart bumps on forehead/arms, elephant-like three-toed feet and bear-like three-clawed hands. GREEN underwear with WHITE stripes; Omnitrix on outstretched BELLY BUTTON, not belt.. Loop: Absorbs the impact of a training bumper. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "walkatrout",
+        "name": "Walkatrout",
+        "action": "Slides along a wet stone ledge",
+        "period": 4.9
+      },
+      {
+        "id": "pesky-dust",
+        "name": "Pesky Dust",
+        "action": "Sprinkles dream dust over the grove",
+        "period": 6.2
+      },
+      {
+        "id": "mole-stache",
+        "name": "Mole-Stache",
+        "action": "Lifts a crate with his prehensile moustache",
+        "period": 4.6
+      },
+      {
+        "id": "the-worst",
+        "name": "The Worst",
+        "action": "Absorbs the impact of a training bumper",
+        "period": 5.3
+      }
+    ]
+  },
+  {
+    "id": "motion-31",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-195d8553-1dfa-46e0-a56b-c4dd7dcdf4a8.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Kickin Hawk. Canonical design: Muscular upright BROWN hawk-rooster with WHITE-brown mohawk and belly, short YELLOW beak, green eyes/mask, black talon toes and large arm TALONS. Strap vest with Omnitrix, green-white belt, black briefs.. Loop: Practices a rotating kick on a dummy. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Toepick. Canonical design: Bulky yellow-GREEN ogre with long lumpy arms, weeds/spines on arms, clawed fingertips and visible belly button. Head fully hidden by heavy bronze METAL FACE CAGE with hinged grille; black briefs and dark-green metal waistband.. Loop: Opens and closes his frightening face cage. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Astrodactyl. Canonical design: RED pterodactyl/glider humanoid with huge YELLOW beak, green eyes, small retractable YELLOW glider wings attached to BACK JETPACK. Black-green shoulder/waist clothes, green wrist/ankle cuffs and Omnitrix LEFT shoulder.. Loop: Loops a jet-assisted flight course. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Bullfrag. Canonical design: Tall muscular pale-GREEN frog humanoid with defined square jaw, three fingers/two toes, GREEN SUNGLASSES. Black suit with GREEN center stripe, fingerless gloves, toeless boots and green-white belt; Omnitrix on upper chest.. Loop: Flicks his tongue toward canopy targets. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "kickin-hawk",
+        "name": "Kickin Hawk",
+        "action": "Practices a rotating kick on a dummy",
+        "period": 3.8
+      },
+      {
+        "id": "toepick",
+        "name": "Toepick",
+        "action": "Opens and closes his frightening face cage",
+        "period": 6.6
+      },
+      {
+        "id": "astrodactyl",
+        "name": "Astrodactyl",
+        "action": "Loops a jet-assisted flight course",
+        "period": 4
+      },
+      {
+        "id": "bullfrag",
+        "name": "Bullfrag",
+        "action": "Flicks his tongue toward canopy targets",
+        "period": 4.2
+      }
+    ]
+  },
+  {
+    "id": "motion-32",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-4df8d6f4-d952-4582-91ac-038ec67e1aa1.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Atomix. Canonical design: Large WHITE/GREEN humanoid nuclear armor with black joints, angular MOUTHLESS helmet, huge GREEN liquid-energy cylinders on forearms and green shoulder orbs, Galvan tech emblem on chest. Omnitrix is on GREEN-WHITE BELT, not chest.. Loop: Balances a glowing reactor sphere. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Gutrot. Canonical design: Stocky GREEN-white containment-suit humanoid with BLUE-PURPLE spotted head/shoulders, gas nozzles head/shoulders/forearms, WHITE gloves and transparent BELLY GAS WINDOW. Omnitrix on mouth gas-mask plate.. Loop: Mixes coloured gas inside the chamber. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Whampire. Canonical design: Pale GREY vampire alien with oversized bat-head, GREEN spiked face mask/eyes and sharp YELLOW teeth; black suit with GREEN chest, green fingers/claws, green underarm BAT wing flaps. Omnitrix on stomach, no human cape.. Loop: Flutters through the dark passage. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ultimate Swampfire. Canonical design: Dark-BROWN petrified TREE humanoid with branchlike limbs, THREE BLUE gel/napalm PODS on each forearm and enormous BLUE back shell/pod. Smaller front pod frames FACE; evolved Ultimatrix chest emblem.. Loop: Releases a burst of blue flame. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "atomix",
+        "name": "Atomix",
+        "action": "Balances a glowing reactor sphere",
+        "period": 6.4
+      },
+      {
+        "id": "gutrot",
+        "name": "Gutrot",
+        "action": "Mixes coloured gas inside the chamber",
+        "period": 5.5
+      },
+      {
+        "id": "whampire",
+        "name": "Whampire",
+        "action": "Flutters through the dark passage",
+        "period": 5.4
+      },
+      {
+        "id": "ultimate-swampfire",
+        "name": "Ultimate Swampfire",
+        "action": "Releases a burst of blue flame",
+        "period": 5.2
+      }
+    ]
+  },
+  {
+    "id": "motion-33",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-18b72f64-746d-4ec0-b9cf-e0f51e475e61.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Ultimate Humungousaur. Canonical design: Massive camo-GREEN ankylosaur-like dinosaur, DARK BLUE plated chest/back armor and horned helmet, silver spikes, heavy blue SPIKED MACE tail. Both fists have FOUR silver cannon barrels and transform into missile launchers; not a regular tan dinosaur.. Loop: Fires a practice salvo from his missile hands. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ultimate Big Chill. Canonical design: Slender RED moth-ghost with FOUR broad wings, yellow/flame-pattern wing borders and antennae, pointed eye crests; wings can fold into red hooded cloak. Evolved green emblem on chest, fire-frost breath rather than ordinary ice sprite.. Loop: Sends a red freezing flame through an arch. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Ultimate Cannonbolt. Canonical design: Huge round WHITE/light-metallic-BLUE body with grey-blue hardened armored plates replacing yellow Cannonbolt plates; protruding sharp SPIKES on armor. Black claws, green eyes and evolved Ultimatrix chest emblem.. Loop: Rolls a spiked shell around the course. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ultimate Echo Echo. Canonical design: Tall BLUE rounded Sonorosian with long thin limbs, black trim and FIFTEEN detachable circular blue SONIC DISCS on body. Stumped feet, cassette-like back marking and chest emblem; floating discs as repeated-action props.. Loop: Orbits and pulses his sonic discs. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ultimate-humungousaur",
+        "name": "Ultimate Humungousaur",
+        "action": "Fires a practice salvo from his missile hands",
+        "period": 5.1
+      },
+      {
+        "id": "ultimate-big-chill",
+        "name": "Ultimate Big Chill",
+        "action": "Sends a red freezing flame through an arch",
+        "period": 6
+      },
+      {
+        "id": "ultimate-cannonbolt",
+        "name": "Ultimate Cannonbolt",
+        "action": "Rolls a spiked shell around the course",
+        "period": 3.9
+      },
+      {
+        "id": "ultimate-echo-echo",
+        "name": "Ultimate Echo Echo",
+        "action": "Orbits and pulses his sonic discs",
+        "period": 5.6
+      }
+    ]
+  },
+  {
+    "id": "motion-34",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-e5c3af9d-0e4e-4b59-aa3a-2224a39a36aa.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Ultimate Spidermonkey. Canonical design: Enormous BLACK-furred GORILLA with purple exposed face/chest, SIX eyes and TWO gorilla arms, plus FOUR long purple spider legs unfolding from waist. No monkey tail and no four-arm base silhouette.. Loop: Stomps forward and casts a web line. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ultimate Wildmutt. Canonical design: Large muscular DARK-RED blind Vulpimancer quadruped with NO eyes/ears/nose, oversized teeth and lower jaw, long SCORPION-like tail with sharp tip, thorny dark mane. Chest evolved Ultimatrix emblem.. Loop: Prowls and tests his tail against a target. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Ultimate Way Big. Canonical design: Giant Ultraman-like figure with BLUE limbs/body, WHITE chest/hands/face and two outward-curving head horns in addition to central fin; red accents at shoulders/cheeks. Evolved chest emblem; not regular red-white WayBig recolor.. Loop: Flies past a cosmic beacon. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Ultimate Arctiguana. Canonical design: Bulky cold lizard with RED armor, big front torso, overbite, three chin whiskers and long BLACK curving mustache markings. Twin RED SHOULDER CANNONS surrounded by icy back/shoulder growths, evolved symbol on spiky ice mound on back.. Loop: Sends twin ice streams at a target. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ultimate-spidermonkey",
+        "name": "Ultimate Spidermonkey",
+        "action": "Stomps forward and casts a web line",
+        "period": 5.3
+      },
+      {
+        "id": "ultimate-wildmutt",
+        "name": "Ultimate Wildmutt",
+        "action": "Prowls and tests his tail against a target",
+        "period": 5.7
+      },
+      {
+        "id": "ultimate-way-big",
+        "name": "Ultimate Way Big",
+        "action": "Flies past a cosmic beacon",
+        "period": 7.4
+      },
+      {
+        "id": "ultimate-arctiguana",
+        "name": "Ultimate Arctiguana",
+        "action": "Sends twin ice streams at a target",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "id": "motion-35",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-680815ac-35cb-4372-a47a-adad6fd50658.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Ultimate Gravattack. Canonical design: Jagged MAGENTA/red living PLANET with NO LEGS, floats by gravity; face on torso and glowing core engulfed INSIDE open mouth with red spiral. Orbiting small living planetoids; evolved symbol on upper torso/forehead.. Loop: Floats with smaller planetoids in orbit. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Ultimate Rath. Canonical design: Huge white-furred tiger with RED stripes and pink exposed hands/feet/chest/jaw, TWO giant hand claws and ELBOW claws. Black shorts and silver-spiked belt, red wraps, RED coat with thick black furry hood and three back spikes.. Loop: Practices an evolved claw strike. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Ultimate Grey Matter. Canonical design: Ultimate Albedo: tiny Galvan arms/legs supporting enormous swollen exposed BRAIN/head, THIRD eye beneath forehead Ultimatrix, rectangular pupils and multiple eyebrow/chin tendrils. Red flying HOVERCHAIR with hourglass front and twin turret barrels; not a tall frog humanoid.. Loop: Studies a floating intelligence puzzle. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Atomic-X. Canonical design: Black STAR-FILLED Alien-X-like body fused with Atomix white-green mechanical armor, green energy cylinders on forearms and green shoulder orbs, three-pronged eyebrow/horn motif. Biomnitrix symbol on chest; no human face.. Loop: Balances a fusion-powered cosmic sphere. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "ultimate-gravattack",
+        "name": "Ultimate Gravattack",
+        "action": "Floats with smaller planetoids in orbit",
+        "period": 7.8
+      },
+      {
+        "id": "ultimate-rath",
+        "name": "Ultimate Rath",
+        "action": "Practices an evolved claw strike",
+        "period": 4.3
+      },
+      {
+        "id": "ultimate-grey-matter",
+        "name": "Ultimate Grey Matter",
+        "action": "Studies a floating intelligence puzzle",
+        "period": 6.1
+      },
+      {
+        "id": "atomic-x",
+        "name": "Atomic-X",
+        "action": "Balances a fusion-powered cosmic sphere",
+        "period": 7.5
+      }
+    ]
+  },
+  {
+    "id": "motion-36",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-8ea64174-1f4d-4895-8314-29a9731003b2.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Fourmungousaur. Canonical design: Huge RED-and-TAN Humungousaur dinosaur body with FOUR distinct thick dinosaur arms, FOUR eyes and Tetramand gloves, heavy tail and reptilian muzzle. Red replaces Humungousaur brown but cream belly remains; no simple red Four Arms recolor.. Loop: Lifts two training weights. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Uprigg. Canonical design: Small rounded Juryrigg goblin silhouette made of BLACK liquid-metal with GREEN Upgrade circuit patterns; very long pointed ears/nose, one circular Upgrade-style eye and plug-tipped tail. Biomnitrix symbol sits inside circular eye.. Loop: Merges into a gadget and rebuilds it. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Big Chuck. Canonical design: Giant bulky Perk-Upchuck green body carrying Way-Big head/shoulder/elbow FIN details, green coloring on fin shapes, huge rounded belly and wide mouth. Must preserve Upchuck shape rather than tall thin WayBig torso.. Loop: Draws a scrap target toward his mouth. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Crashocker. Canonical design: Broad Shocksquatch-like torso/chest and arms recolored brownish-green fused with Crashhopper insect structure and powerful grasshopper jumping legs. Electrified insect-gorilla silhouette, not generic armoured soldier.. Loop: Hops between electrically charged markers. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "fourmungousaur",
+        "name": "Fourmungousaur",
+        "action": "Lifts two training weights",
+        "period": 5.6
+      },
+      {
+        "id": "uprigg",
+        "name": "Uprigg",
+        "action": "Merges into a gadget and rebuilds it",
+        "period": 4.2
+      },
+      {
+        "id": "big-chuck",
+        "name": "Big Chuck",
+        "action": "Draws a scrap target toward his mouth",
+        "period": 6.2
+      },
+      {
+        "id": "crashocker",
+        "name": "Crashocker",
+        "action": "Hops between electrically charged markers",
+        "period": 3.7
+      }
+    ]
+  },
+  {
+    "id": "motion-37",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-9080ab37-56cc-454a-9ba1-221cd711adb7.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Humungoopsaur. Canonical design: Transparent GREEN SLIME in huge muscular Humungousaur dinosaur silhouette, Goop pointed fingers and slime spikes, tail and green belly. WHITE chest sash with Biomnitrix symbol and separate WHITE anti-gravity UFO projector hovering overhead.. Loop: Stretches a massive liquid silhouette. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Stink Arms. Canonical design: Four Arms red four-armed muscular body fused with Stinkfly FOUR EYESTALKS, translucent insect wings and long stinger tail; shirt based on Stinkfly white-black suit and FourArms pants. Omnitrix on FACE.. Loop: Flies low and throws a slime glob. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Diamond Matter. Canonical design: Tiny Grey-Matter-like frog/crystal hybrid, pale green faceted Petrosapien diamond body and Galvan enlarged head/eyes; strong blocky crystal upper limbs contrasted with small compact body. Do not draw full-sized Diamondhead.. Loop: Studies and grows a small crystal structure. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Heat Jaws. Canonical design: Ripjaws pale-grey fish head/TORSO with huge toothed mouth and angler lure, but Heatblast magma-red rock ARMS and LEGS. Dorsal fin replaced by FIRE strip, small flames around head/back, not an entirely red Heatblast with fish tail.. Loop: Sends a heated water burst at a target. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "humungoopsaur",
+        "name": "Humungoopsaur",
+        "action": "Stretches a massive liquid silhouette",
+        "period": 5.9
+      },
+      {
+        "id": "stink-arms",
+        "name": "Stink Arms",
+        "action": "Flies low and throws a slime glob",
+        "period": 5.1
+      },
+      {
+        "id": "diamond-matter",
+        "name": "Diamond Matter",
+        "action": "Studies and grows a small crystal structure",
+        "period": 5.2
+      },
+      {
+        "id": "heat-jaws",
+        "name": "Heat Jaws",
+        "action": "Sends a heated water burst at a target",
+        "period": 5
+      }
+    ]
+  },
+  {
+    "id": "motion-38",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-51cd0fda-ea22-4a59-814c-343a90184230.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Crabdozer. Canonical design: Huge squat SIX-legged rocky crab-rhino predator, dark-purple/grey stone plates, rhino-like head with single long nose horn, small ears and sunken red eyes. Red spiked Nemetrix collar; no humanoid torso.. Loop: Charges toward a fireproof quarry barrier. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Buglizard. Canonical design: Long white quadrupedal reptile with black head/white facial patches, FOUR red eyes, sharp teeth, exposed lower gums, black feet with three red claws, red spine row and black dorsal stripe, red-tipped tail. Red spiked Nemetrix collar.. Loop: Prowls through clouds of obscuring gas. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Mucilator. Canonical design: Very fat squat grey rock-skinned beast covered with large soft purple-pink adhesive sacs, drooping heavy body and blunt limbs. Nemetrix predator should read as an ungainly glue-covered grey creature, not an armored reptile.. Loop: Sets a sticky sack trap beside the trail. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Slamworm. Canonical design: Enormous cream-orange and brown segmented worm, broad grey BEAK-like mouth and sharp teeth, SIX red eyes; grey dorsal spikes, four small red insect legs per side near front and pincer-spiked tail. Low horizontal crawling body.. Loop: Burrows between two tunnel openings. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "crabdozer",
+        "name": "Crabdozer",
+        "action": "Charges toward a fireproof quarry barrier",
+        "period": 4.9
+      },
+      {
+        "id": "buglizard",
+        "name": "Buglizard",
+        "action": "Prowls through clouds of obscuring gas",
+        "period": 5.9
+      },
+      {
+        "id": "mucilator",
+        "name": "Mucilator",
+        "action": "Sets a sticky sack trap beside the trail",
+        "period": 5.5
+      },
+      {
+        "id": "slamworm",
+        "name": "Slamworm",
+        "action": "Burrows between two tunnel openings",
+        "period": 6.1
+      }
+    ]
+  },
+  {
+    "id": "motion-39",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-0fd29ba8-3b00-477c-9d37-85d34a9f4abd.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Terroranchula. Canonical design: Giant FOUR-legged silver-exoskeleton spider/silverfish creature with four clawed pincers, light-brown/olive fur at lower legs and back of head, red eyes and reptile-like face. Red Nemetrix collar; do not draw conventional eight-leg tarantula.. Loop: Casts an energy web over a target. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Hypnotick. Canonical design: Large purple-grey bee/moth predator with FOUR wings and FOUR legs, long antennae, sharp fang pair and TWO-pronged tail stinger. Hovers with hypnotic vapor, red spiked Nemetrix collar.. Loop: Flutters through a hypnotic ring pattern. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Omnivoracious. Canonical design: Tall ostrich/emu-like predatory bird with grey body, spiky PURPLE feathers on head/torso/thighs/wings and three tail feathers. Long bluish-silver SERRATED beak, green eyes, backwards-bent long legs and hooked three-clawed feet.. Loop: Circles above a Galvan-sized trail. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Vicetopus. Canonical design: Long-bodied massive DARK-RED octopus predator with many elongated tentacles along underside, beaked mouth, two large red eyes and brown dorsal spots. Horizontal aquatic/crawling silhouette, not a purple round squid.. Loop: Reaches out with gripping tentacles. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "terroranchula",
+        "name": "Terroranchula",
+        "action": "Casts an energy web over a target",
+        "period": 5.3
+      },
+      {
+        "id": "hypnotick",
+        "name": "Hypnotick",
+        "action": "Flutters through a hypnotic ring pattern",
+        "period": 6.5
+      },
+      {
+        "id": "omnivoracious",
+        "name": "Omnivoracious",
+        "action": "Circles above a Galvan-sized trail",
+        "period": 5.2
+      },
+      {
+        "id": "vicetopus",
+        "name": "Vicetopus",
+        "action": "Reaches out with gripping tentacles",
+        "period": 6.2
+      }
+    ]
+  },
+  {
+    "id": "motion-40",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-2b51d061-92f9-431f-b676-f09c9a8da565.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Tyrannopede. Canonical design: Huge purple-grey SEGMENTED centipede dinosaur with RED T-rex/Carnotaurus-like horned head, FOUR supporting legs and SIX small two-clawed arms. Massive tail and red spiked Nemetrix collar; no humanoid build.. Loop: Patrols and snaps at a training target. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Panuncian. Canonical design: Purple-furred saber-toothed cat/hyena mix, long saber fangs and a horn on DOG-like nose, low quadruped feline body. Nemetrix collar; multiple matching clones are action props.. Loop: Splits into a hunting pair. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Ultimate Panuncian. Canonical design: Crimson-red saber-cat/hyena with larger fangs, head armor with long central horn and two smaller side/rear horns, peach skin exposed in patches, spikes on shoulders/back like Crabdozer stone armor. Quadruped predator, not biped.. Loop: Prowls with an evolved duplicate. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Rocks. Canonical design: . Loop: Examines a stage-show strength exhibit. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "tyrannopede",
+        "name": "Tyrannopede",
+        "action": "Patrols and snaps at a training target",
+        "period": 6
+      },
+      {
+        "id": "panuncian",
+        "name": "Panuncian",
+        "action": "Splits into a hunting pair",
+        "period": 5.8
+      },
+      {
+        "id": "ultimate-panuncian",
+        "name": "Ultimate Panuncian",
+        "action": "Prowls with an evolved duplicate",
+        "period": 6.3
+      },
+      {
+        "id": "rocks",
+        "name": "Rocks",
+        "action": "Examines a stage-show strength exhibit",
+        "period": 5.8
+      }
+    ]
+  },
+  {
+    "id": "motion-41",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-44d2c564-6237-42be-b598-eef377fe6461.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Squidstrictor. Canonical design: . Loop: Coils tentacles around an aquatic training ring. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Portaler. Canonical design: . Loop: Inspects an Alien Maker game record. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Antigravitesla. Canonical design: . Loop: Inspects an Ultimate Access concept record. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Bob the Blob. Canonical design: . Loop: Inspects an Ultimate Access concept record. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "squidstrictor",
+        "name": "Squidstrictor",
+        "action": "Coils tentacles around an aquatic training ring",
+        "period": 6
+      },
+      {
+        "id": "portaler",
+        "name": "Portaler",
+        "action": "Inspects an Alien Maker game record",
+        "period": 6.8
+      },
+      {
+        "id": "antigravitesla",
+        "name": "Antigravitesla",
+        "action": "Inspects an Ultimate Access concept record",
+        "period": 6.5
+      },
+      {
+        "id": "bob-the-blob",
+        "name": "Bob the Blob",
+        "action": "Inspects an Ultimate Access concept record",
+        "period": 6.9
+      }
+    ]
+  },
+  {
+    "id": "motion-42",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-1da9bf5e-5961-4e79-9e31-a21a8f677002.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Julie Yamamoto. Canonical design: . Loop: Practices a serve beside the plaza court. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Kai Green. Canonical design: . Loop: Examines an ancient artefact. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Verdona. Canonical design: . Loop: Weaves a luminous mana constellation. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Sunny. Canonical design: . Loop: Swirls an Anodite mana ribbon. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-julie-yamamoto",
+        "name": "Julie Yamamoto",
+        "action": "Practices a serve beside the plaza court",
+        "period": 4.8
+      },
+      {
+        "id": "cast-kai-green",
+        "name": "Kai Green",
+        "action": "Examines an ancient artefact",
+        "period": 6
+      },
+      {
+        "id": "cast-verdona",
+        "name": "Verdona",
+        "action": "Weaves a luminous mana constellation",
+        "period": 7.5
+      },
+      {
+        "id": "cast-sunny",
+        "name": "Sunny",
+        "action": "Swirls an Anodite mana ribbon",
+        "period": 6.4
+      }
+    ]
+  },
+  {
+    "id": "motion-43",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-31f44173-641e-4dd5-b256-90ae2498fd2a.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Tetrax Shard. Canonical design: . Loop: Forms and resets a crystal shield. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Sugilite. Canonical design: . Loop: Rebuilds a Petropian crystal formation. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Skurd. Canonical design: . Loop: Samples a rotating strand of DNA. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Hex. Canonical design: . Loop: Turns his staff through a spell circle. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-tetrax-shard",
+        "name": "Tetrax Shard",
+        "action": "Forms and resets a crystal shield",
+        "period": 5.5
+      },
+      {
+        "id": "cast-sugilite",
+        "name": "Sugilite",
+        "action": "Rebuilds a Petropian crystal formation",
+        "period": 7
+      },
+      {
+        "id": "cast-skurd",
+        "name": "Skurd",
+        "action": "Samples a rotating strand of DNA",
+        "period": 5.1
+      },
+      {
+        "id": "cast-hex",
+        "name": "Hex",
+        "action": "Turns his staff through a spell circle",
+        "period": 6.2
+      }
+    ]
+  },
+  {
+    "id": "motion-44",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-f64ec6c2-12e8-4a83-9fc5-c7e1454391df.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Charmcaster. Canonical design: . Loop: Opens a spellbook and summons a rune. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Zs\u2019Skayr. Canonical design: . Loop: Floats through a shadowed doorway. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Zombozo. Canonical design: . Loop: Inflates a balloon at the haunted circus. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Malware. Canonical design: . Loop: Flows through a corrupted terminal. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-charmcaster",
+        "name": "Charmcaster",
+        "action": "Opens a spellbook and summons a rune",
+        "period": 5.7
+      },
+      {
+        "id": "cast-zs-skayr",
+        "name": "Zs\u2019Skayr",
+        "action": "Floats through a shadowed doorway",
+        "period": 7.1
+      },
+      {
+        "id": "cast-zombozo",
+        "name": "Zombozo",
+        "action": "Inflates a balloon at the haunted circus",
+        "period": 5.9
+      },
+      {
+        "id": "cast-malware",
+        "name": "Malware",
+        "action": "Flows through a corrupted terminal",
+        "period": 5.1
+      }
+    ]
+  },
+  {
+    "id": "motion-45",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-75018e9d-a726-4729-83f1-e3a497331c25.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Doctor Psychobos. Canonical design: . Loop: Tests a Nemetrix circuit on the bench. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Will Harangue. Canonical design: . Loop: Records another animated news report. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Captain Nemesis. Canonical design: . Loop: Polishes his armour and tests a pose. Four poses with correct constant number of limbs and outfit, action then reset. ROW 4: Clancy. Canonical design: . Loop: Directs a looping swarm of insects. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-doctor-psychobos",
+        "name": "Doctor Psychobos",
+        "action": "Tests a Nemetrix circuit on the bench",
+        "period": 5.3
+      },
+      {
+        "id": "cast-will-harangue",
+        "name": "Will Harangue",
+        "action": "Records another animated news report",
+        "period": 5.8
+      },
+      {
+        "id": "cast-captain-nemesis",
+        "name": "Captain Nemesis",
+        "action": "Polishes his armour and tests a pose",
+        "period": 6.1
+      },
+      {
+        "id": "cast-clancy",
+        "name": "Clancy",
+        "action": "Directs a looping swarm of insects",
+        "period": 5.6
+      }
+    ]
+  },
+  {
+    "id": "motion-46",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-4f14d288-2e33-4875-92b5-39947a791e53.png",
+    "prompt": "Use case: stylized-concept. Asset type: pixel-style character sprite animation atlas for a Ben 10 fan website. ONE transparent PNG, strict FOUR COLUMNS and FOUR ROWS (16 equal cells). Each ROW contains ONE character doing FOUR DIFFERENT full-body poses across the four columns: anticipation, action, peak, recovery. Faithfully resemble original Ben 10 Classic, Alien Force, Ultimate Alien and Omniverse characters with correct anatomy and outfits, crisp dark outlines and cel shading. Stable 3/4 camera facing right. Keep every limb and attached prop INSIDE its cell with 15% transparent padding, consistent size and feet baseline. NO background, terrain, shadows, particles, detached props, grid lines, borders, labels, text, watermark. NO reboot designs. Four poses must show distinct limb/body movement, never duplicated idle copies. ROW 1: Sir George. Canonical design: . Loop: Practices a sword cut in the fortress. Four poses with correct constant number of limbs and outfit, action then reset. ROW 2: Forever Knight. Canonical design: . Loop: Patrols the fortress doorway. Four poses with correct constant number of limbs and outfit, action then reset. ROW 3: Fistina. Canonical design: . Loop: Tests her extendable mechanical arms. Four poses with correct constant number of limbs and outfit, action then reset.",
+    "entries": [
+      {
+        "id": "cast-sir-george",
+        "name": "Sir George",
+        "action": "Practices a sword cut in the fortress",
+        "period": 5.2
+      },
+      {
+        "id": "cast-forever-knight",
+        "name": "Forever Knight",
+        "action": "Patrols the fortress doorway",
+        "period": 6
+      },
+      {
+        "id": "cast-fistina",
+        "name": "Fistina",
+        "action": "Tests her extendable mechanical arms",
+        "period": 4.8
+      }
+    ]
+  },
+  {
+    "id": "motion-core",
+    "source": "ben10-omniverse/assets/core.webp",
+    "prompt": "Normalized original four-pose generated artwork; see PROMPTS.md for original briefs.",
+    "entries": [
+      {
+        "id": "ben-classic-ben",
+        "name": "ben-classic-ben",
+        "action": "Raises, selects and presses the Classic Omnitrix",
+        "period": 4
+      },
+      {
+        "id": "heatblast",
+        "name": "heatblast",
+        "action": "Forms and releases a fireball",
+        "period": 4
+      },
+      {
+        "id": "four-arms",
+        "name": "four-arms",
+        "action": "Lifts an engine with all four arms",
+        "period": 4
+      },
+      {
+        "id": "xlr8",
+        "name": "xlr8",
+        "action": "Four-frame sprint cycle",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "id": "motion-cast",
+    "source": "ben10-omniverse/assets/cast.webp",
+    "prompt": "Normalized original four-pose generated artwork; see PROMPTS.md for original briefs.",
+    "entries": [
+      {
+        "id": "cast-gwen-tennyson",
+        "name": "cast-gwen-tennyson",
+        "action": "Shapes a glowing mana shield",
+        "period": 4
+      },
+      {
+        "id": "cast-kevin-levin",
+        "name": "cast-kevin-levin",
+        "action": "Works a wrench through four poses",
+        "period": 4
+      },
+      {
+        "id": "cast-grandpa-max",
+        "name": "cast-grandpa-max",
+        "action": "Turns his barbecue spatula",
+        "period": 4
+      },
+      {
+        "id": "cast-vilgax",
+        "name": "cast-vilgax",
+        "action": "Charges and fires a gauntlet beam",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "id": "motion-scientists",
+    "source": "ben10-omniverse/assets/scientists.webp",
+    "prompt": "Normalized original four-pose generated artwork; see PROMPTS.md for original briefs.",
+    "entries": [
+      {
+        "id": "cast-doctor-animo",
+        "name": "cast-doctor-animo",
+        "action": "Adjusts and fires his mutation ray",
+        "period": 4
+      },
+      {
+        "id": "cast-rook-blonko",
+        "name": "cast-rook-blonko",
+        "action": "Aims and lowers his Proto-Tool",
+        "period": 4
+      },
+      {
+        "id": "cast-azmuth",
+        "name": "cast-azmuth",
+        "action": "Examines an Omnitrix prototype",
+        "period": 4
+      },
+      {
+        "id": "cast-professor-paradox",
+        "name": "cast-professor-paradox",
+        "action": "Opens, checks and closes his pocket watch",
+        "period": 4
+      }
+    ]
+  },
+  {
+    "id": "landscapes-city",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-3be211b2-3f4a-4951-a631-68645a70eb70.png",
+    "themes": [
+      "city",
+      "undertown",
+      "hangar",
+      "lab"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: Ben 10 pixel-art game environment atlas. Create ONE high-quality landscape image split into exactly TWO columns and TWO rows: four equal rectangular panels, a strict 2x2 atlas. Each panel has a unique complete environment. 3:2 overall landscape framing, detailed pixel-style isometric game scenery matching a sophisticated Ben 10 fan world. Consistent top-down three-quarter viewpoint, illustrated raster pixel texture, crisp dark outlines. No characters or aliens, no text, no labels, no numbers, no UI, no borders, no white gaps. Each of the FOUR panels MUST have at least 60 percent clear traversable central floor so animated sprites can later be composited. Decorate back wall and perimeter only. Top-left panel: Bellwood street corner, recognizable pink Mr. Smoothy cup roof shop, trees, benches, asphalt plaza, warm afternoon. Top-right panel: Undertown alien market below Bellwood, curved purple-blue shopfronts, glowing hanging signs WITHOUT TEXT, pipes, stalls, cobbled plaza. Bottom-left panel: Plumber headquarters hangar, white green gray futuristic archways, parked compact shuttle, alien-tech platforms, open training floor. Bottom-right panel: Galvan Prime laboratory, pale green little alien science stations, luminous DNA tanks at perimeter, raised circuit workbenches, open central floor. The four panels occupy exact equal quadrants with straight boundaries; objects must not cross panel boundaries. Aim for rich original Ben 10 television-inspired recognizable environments, atmospheric yet readable and colorful. Render around 2048 by 1536 pixels if possible."
+  },
+  {
+    "id": "landscapes-nature",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-6f5831e0-baf1-4359-81b7-4b245016090f.png",
+    "themes": [
+      "volcano",
+      "ice",
+      "underwater",
+      "forest"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: Ben 10 pixel-art game environment atlas. Create ONE high-quality landscape image split into exactly TWO columns and TWO rows: four equal rectangular panels, a strict 2x2 atlas. Each panel has a unique complete environment. 3:2 overall landscape framing, detailed pixel-style isometric game scenery matching a sophisticated Ben 10 fan world. Consistent top-down three-quarter viewpoint, illustrated raster pixel texture, crisp dark outlines. No characters or aliens, no text, no labels, no numbers, no UI, no borders, no white gaps. Each of the FOUR panels MUST have at least 60 percent clear traversable central floor so animated sprites can later be composited. Decorate back wall and perimeter only. Top-left panel: Pyros volcanic landscape, cracked black basalt, lava streams around perimeter, glowing orange crystal outcrops, central basalt island training floor. Top-right panel: Necrofriggian-inspired frozen cavern, enormous cyan ice formations at perimeter, gentle blue stalactites, frozen central skating floor. Bottom-left panel: Piscciss-inspired underwater reef, transparent teal sea, pink coral rock edges, aquatic lab pipe, sandy open bottom plaza. Bottom-right panel: Vulpimancer jungle hunting trail, dense emerald foliage at perimeter, mossy ancient roots and rock arch, open warm earthen clearing. The four panels occupy exact equal quadrants with straight boundaries; objects must not cross panel boundaries. Aim for rich original Ben 10 television-inspired recognizable environments, atmospheric yet readable and colorful. Render around 2048 by 1536 pixels if possible."
+  },
+  {
+    "id": "landscapes-mystery",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-6d2bc29b-bba0-4394-9c99-701668a2bcbe.png",
+    "themes": [
+      "anur",
+      "nullvoid",
+      "ruins",
+      "swamp"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: Ben 10 pixel-art game environment atlas. Create ONE high-quality landscape image split into exactly TWO columns and TWO rows: four equal rectangular panels, a strict 2x2 atlas. Each panel has a unique complete environment. 3:2 overall landscape framing, detailed pixel-style isometric game scenery matching a sophisticated Ben 10 fan world. Consistent top-down three-quarter viewpoint, illustrated raster pixel texture, crisp dark outlines. No characters or aliens, no text, no labels, no numbers, no UI, no borders, no white gaps. Each of the FOUR panels MUST have at least 60 percent clear traversable central floor so animated sprites can later be composited. Decorate back wall and perimeter only. Top-left panel: Anur Transyl night courtyard, gothic alien castle towers, violet sky, twisted trees, ghostly green lamp windows, large cobbled central courtyard. Top-right panel: Null Void floating prison platform, crimson cosmic clouds surrounding large dark rocky landing platform, alien restraints and portal ring at perimeter. Bottom-left panel: Ancient Forever Knight ruined fortress courtyard, stone crenellations, ivy, red banner without text, weapon racks at edges, open center stone floor. Bottom-right panel: Methanos swamp forest clearing, glowing swamp flowers, vine arches, steaming pond at bottom edge, deadwood at perimeter, open muddy clearing. The four panels occupy exact equal quadrants with straight boundaries; objects must not cross panel boundaries. Aim for rich original Ben 10 television-inspired recognizable environments, atmospheric yet readable and colorful. Render around 2048 by 1536 pixels if possible."
+  },
+  {
+    "id": "landscapes-cosmic",
+    "source": "/workspace/scratch/45aad7ac4cf5/generated_images/exec-c9e6341c-2697-4501-947a-74f48bd96133.png",
+    "themes": [
+      "space",
+      "multiverse",
+      "arena",
+      "desert"
+    ],
+    "prompt": "Use case: stylized-concept. Asset type: Ben 10 pixel-art game environment atlas. Create ONE high-quality landscape image split into exactly TWO columns and TWO rows: four equal rectangular panels, a strict 2x2 atlas. Each panel has a unique complete environment. 3:2 overall landscape framing, detailed pixel-style isometric game scenery matching a sophisticated Ben 10 fan world. Consistent top-down three-quarter viewpoint, illustrated raster pixel texture, crisp dark outlines. No characters or aliens, no text, no labels, no numbers, no UI, no borders, no white gaps. Each of the FOUR panels MUST have at least 60 percent clear traversable central floor so animated sprites can later be composited. Decorate back wall and perimeter only. Top-left panel: Forge of Creation cosmic platform, swirling purple galaxy and stars, small floating asteroid rocks, luminous green celestial arch, open pale stony central platform. Top-right panel: Crossroads of time multiverse laboratory, blue and teal circular portal doors arrayed at perimeter, suspended clocks without numerals, mirrored central walkway. Bottom-left panel: Ultimatrix alien training arena, angular black and green technology, cylindrical DNA pods at edges, hard-light target rails, open central practice floor. Bottom-right panel: Mad Ben wasteland desert, orange sand, rocky mesas, rusty hovercar wrecks and metal pipe outposts at edges, open desert road in middle. The four panels occupy exact equal quadrants with straight boundaries; objects must not cross panel boundaries. Aim for rich original Ben 10 television-inspired recognizable environments, atmospheric yet readable and colorful. Render around 2048 by 1536 pixels if possible."
+  }
+]
