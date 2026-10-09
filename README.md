@@ -2,7 +2,7 @@
 
 A living, isometric **Ben 10 fan universe**, inspired by the explorability and repeating character actions of [Floor796](https://floor796.com/).
 
-The project is a dependency-free static website. It runs entirely in the browser, uses locally drawn Canvas artwork, and needs no API keys, database, image CDN, or server runtime.
+The project is a dependency-free static website. It runs entirely in the browser, uses locally bundled raster sprites and Canvas animation, and needs no API keys, database, image CDN, or server runtime.
 
 ## Explore
 
@@ -36,7 +36,7 @@ Import this repository into Vercel. The included `vercel.json` selects:
 | Output directory | `dist` |
 | Environment variables | None |
 
-This source package does not create or deploy a Vercel project.
+The project is deployed at https://ben10-omniverse.vercel.app/.
 
 ## Controls
 
@@ -60,15 +60,19 @@ The expanded Classic playlist includes Arctiguana, Buzzshock, and Spitter from f
 
 Alternate watches share curated simulator playlists. This does not imply their owners used every listed transformation on screen. The Nemetrix uses a suitable predator host instead of treating its forms as a normal human-Ben playlist. Non-screen Biomnitrix pairs are clearly marked **fan simulations**.
 
-Stage-show, creator-concept, non-canon-game, and named-but-unseen entries are separately labelled. Their miniatures are schematic interpretations. Comic appearances are reference-linked; newly published comic continuities are not automatically merged into the original TV timeline. The supplemental Spitter comic archive entry points to the same alien rather than implying a separate species.
+Stage-show, creator-concept, non-canon-game, and named-but-unseen entries are separately labelled. Entries without suitable artwork are shown as references rather than invented character bodies. Comic appearances are reference-linked; newly published comic continuities are not automatically merged into the original TV timeline. The supplemental Spitter comic archive entry points to the same alien rather than implying a separate species.
 
 ## Artwork and implementation
 
-All scenery and character miniatures are original simplified code-drawn fan art, using shared shape and animation rigs. They are not official screenshots or individually hand-animated show-accurate sprite sheets. Each resident repeats a pose/effect cycle; the displayed action describes its scene vignette. The implementation is designed so future custom sprite sheets or richer per-character animation clips can replace these rigs.
+The generic procedural character bodies have been removed. The new assets are original AI-generated pixel-style fan interpretations, generated with the built-in imagegen tool. They are not official show or game sprites. `assets/PROMPTS.md` records the production prompts.
 
-`src/data.js` owns catalogue records, device compatibility, source links, and fusion/evolution lookup. `src/sprites.js` renders vector miniatures and thumbnails. `src/world.js` owns isometric scenery, cached district backgrounds, camera gestures, hit testing, and animation. `src/app.js` connects UI, discovery storage, and transformation interactions.
+Twelve main characters have four-frame action clips: Classic Ben, Heatblast, Four Arms, XLR8, Gwen, Kevin, Grandpa Max, Vilgax, Doctor Animo, Rook, Azmuth and Professor Paradox. Other illustrated entries use a full-body raster sprite with ambient movement and selected power effects. This does **not** mean every supporting character has a custom task animation. Several supporting-character drafts were rejected for poor resemblance; those catalogue entries remain clearly marked reference-only. Named but unseen forms also remain reference-only.
 
-To add a resident, extend a catalogue table with a unique name, species, colour, shape, source, and action. Add new drawing rigs in `drawSprite` when the existing shapes are insufficient. Keep hypothetical material labelled and run the catalogue tests.
+The opening scene is a bespoke pixel-style Rust Bucket campsite with Kevin's garage, Mr. Smoothy and a Plumber workbench. Nine featured characters are placed in the scene, with names visible by default. Transformations get a large preview, and selected characters replay their animation in the detail panel. The other districts are activity bays for the wider roster.
+
+`src/data.js` owns catalogue and device rules. `src/sprite-manifest.js` maps approved sprites to measured atlas rectangles and animation frames. `src/sprites.js` loads images, renders frame clips, adds ambient effects and creates thumbnails. `src/world.js` manages districts, camera gestures, hit testing and transformations. `src/app.js` connects the interface and discovery storage. Vercel serves the WebP assets locally; no image CDN is needed.
+
+Keep new visual assets separate from catalogue-only records. Add a manifest entry only after checking its resemblance and crop. Existing PNG generation originals are preserved outside the repository; production atlases use WebP encoding for smaller transfers.
 
 ## References
 
@@ -85,4 +89,4 @@ Ben 10 names and characters belong to their respective rights holders. This is a
 
 ## Verification
 
-The included Node tests cover catalogue integrity, era playlists, Ultimate availability, predator isolation, fusion lookup, and district references. JavaScript syntax checks and the production build run without third-party dependencies. During creation, an additional headless DOM/Canvas smoke check exercised application startup, device switching, Ultimate evolution, Atomic-X fusion, predator transformation, search and inspection, supplemental playlists, and source notes. Scene and sprite renders were inspected separately. Full browser visual QA and physical device testing have not been performed and remain recommended before public release.
+Run `npm run check`, `npm test`, and `npm run build`. Tests cover device compatibility and catalogue integrity, as well as raster coverage for every base alien, Ultimate form, known fusion, predator and watch wielder; frame bounds; twelve action clips; and asset packaging. Browser checks exercise the campsite, alien transformation, Ultimate evolution, alternate Bens, pause/resume, archive search and character detail playback. Physical touch-device testing remains outstanding.
